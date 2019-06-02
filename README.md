@@ -13,6 +13,8 @@
 
 ## github
 
+- [awesome-go](https://github.com/avelino/awesome-go)
+
 ## golang
 
 - [Golangの良いところ](https://christina04.hatenablog.com/entry/why-golang-is-good)
