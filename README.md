@@ -17,12 +17,18 @@
 
 ## golang
 
+- [Go入門②~package/importについて・簡単なtestコードを書いてみる~](https://qiita.com/shuuuting95/items/aedfff75e2083688c579)
+- [Go言語 termdash のBarChart（棒グラフ）の使い方（CPU使用率表示）](https://qiita.com/h6591/items/b9f3282dc5f41f6150c2)
+- [Go言語 コンソールモードでコンソール上にグラフ、ボタン、スクロールテキストを表示するtermdashの紹介](https://qiita.com/h6591/items/2964ec7c8d8e53d5ac0a)
+- [Pipes 101 with Go](http://www.albertoleal.me/posts/golang-pipes.html)
 - [Golangの良いところ](https://christina04.hatenablog.com/entry/why-golang-is-good)
 - [Non-Blocking I/O, I/O Multiplexing, Asynchronous I/Oの区別](https://christina04.hatenablog.com/entry/2017/07/05/005944)
 - [イベントループなしでのハイパフォーマンス – C10K問題へのGoの回答](https://postd.cc/performance-without-the-event-loop/)
 
 ## gcp
 
+- [Go言語で開発したWebアプリをGCP(GKE)へデプロイして公開する](https://qiita.com/melty_go/items/6ec8b1e423dc1d63da24)
+- [Go言語で開発したWebアプリをGCP(GAE)へデプロイする](https://qiita.com/melty_go/items/074af694aa8a1c8ec798)
 - [【GCP入門編・第1回】エンジニア必読！今さら聞けない、Google Cloud Platform (GCP) とは？](https://www.topgate.co.jp/gcp01-what-is-google-cloud-platform)
 - [【GCP入門編・第2回】まずは、ここから！知らないと恥ずかしい Google Cloud Platform (GCP) の事前準備！](https://www.topgate.co.jp/gcp02-getting-started-guide)
 - [【GCP入門編・第3回】難しくない！ Google Compute Engine (GCE) でのインスタンス起動方法！](https://www.topgate.co.jp/gcp03-google-compute-engine-launch-instance)
