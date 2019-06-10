@@ -15,6 +15,9 @@
 
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [deque(Extremely fast ring-buffer deque)](https://github.com/gammazero/deque)
+- [gore](https://github.com/motemen/gore)
+  - Yet another Go REPL
+  - Go言語用のREPL
 
 ## golang
 
