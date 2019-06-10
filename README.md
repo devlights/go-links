@@ -14,6 +14,7 @@
 ## github
 
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [deque(Extremely fast ring-buffer deque)](https://github.com/gammazero/deque)
 
 ## golang
 
