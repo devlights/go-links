@@ -21,6 +21,9 @@
 
 ## golang
 
+- [Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+- [6年間におけるGoのベストプラクティス](https://postd.cc/go-best-practices-2016/)
+- [私のプログラミングの始め方 : Go](https://yakst.com/ja/posts/831)
 - [Go入門②~package/importについて・簡単なtestコードを書いてみる~](https://qiita.com/shuuuting95/items/aedfff75e2083688c579)
 - [Go言語 termdash のBarChart（棒グラフ）の使い方（CPU使用率表示）](https://qiita.com/h6591/items/b9f3282dc5f41f6150c2)
 - [Go言語 コンソールモードでコンソール上にグラフ、ボタン、スクロールテキストを表示するtermdashの紹介](https://qiita.com/h6591/items/2964ec7c8d8e53d5ac0a)
