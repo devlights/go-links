@@ -18,6 +18,8 @@
 - [gore](https://github.com/motemen/gore)
   - Yet another Go REPL
   - Go言語用のREPL
+- [tint](https://github.com/printzero/tint)
+  - ターミナルの出力に色をつけてくれるライブラリ
 
 ## golang
 
