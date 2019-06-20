@@ -13,6 +13,8 @@
 
 ## github
 
+- [goquery](https://github.com/PuerkitoBio/goquery)
+  - jqueryライクにHTMLを操作できるライブラリ
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [deque(Extremely fast ring-buffer deque)](https://github.com/gammazero/deque)
 - [gore](https://github.com/motemen/gore)
