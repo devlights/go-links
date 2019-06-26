@@ -13,6 +13,8 @@
 
 ## github
 
+- [golang-set](https://github.com/deckarep/golang-set)
+  - set の 実装
 - [goquery](https://github.com/PuerkitoBio/goquery)
   - jqueryライクにHTMLを操作できるライブラリ
 - [awesome-go](https://github.com/avelino/awesome-go)
