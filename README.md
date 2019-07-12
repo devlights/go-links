@@ -13,6 +13,13 @@
 
 ## github
 
+- [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
+  - Excelを操作できるライブラリ。```xlsx``` と比べて多機能
+  - セル指定が ```A1``` 形式なのですこし使いづらい印象
+- [xlsx](https://github.com/tealeg/xlsx)
+  - Excelを読み書きできるライブラリ。シートコピーなどは出来ない
+  - セルの指定が ```sheet.Rows[y].Cells[x].Value``` と出来るので使いやすい
+- [tablewriter](https://github.com/olekukonko/tablewriter)
 - [gin](https://github.com/gin-gonic/gin)
   - 軽量 Web フレームワーク
   - ハイパフォーマンス (内部で httprouter を利用している)
@@ -32,6 +39,7 @@
 
 ## golang
 
+- [DockerでGoの開発環境を構築する](https://qiita.com/uji_/items/8c9eda89526abe0ba900)
 - [Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [6年間におけるGoのベストプラクティス](https://postd.cc/go-best-practices-2016/)
 - [私のプログラミングの始め方 : Go](https://yakst.com/ja/posts/831)
