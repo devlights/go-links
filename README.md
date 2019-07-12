@@ -4,15 +4,32 @@
 
 ---
 
+- [基本](#basics)
 - [github](#github)
+- [情報が沢山あるサイト](#many_golang_articles)
 - [golang](#golang)
 - [gcp](#gcp)
 - [Goならわかるシステムプログラミング](#go_system_programming)
 
 ---
 
+## basics
+
+- [Go Official Page](https://golang.org/)
+- [Go Documentation](https://golang.org/doc/)
+- [Go Effective Go](https://golang.org/doc/effective_go.html)
+- [Go FAQ](https://golang.org/doc/faq)
+- [Go Tour of Go](https://tour.golang.org/welcome/1)
+- [Go Packages](https://golang.org/pkg/)
+- [Go Playground](https://play.golang.org/)
+- [Go Wiki](https://github.com/golang/go/wiki)
+
 ## github
 
+- [go-echarts](https://github.com/chenjiandongx/go-echarts)
+  - チャートライブラリ。高機能。
+- [project-layout](https://github.com/golang-standards/project-layout)
+  - Go言語のプロジェクト構成についての資料
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
   - Excelを操作できるライブラリ。```xlsx``` と比べて多機能
   - セル指定が ```A1``` 形式なのですこし使いづらい印象
@@ -37,8 +54,33 @@
 - [tint](https://github.com/printzero/tint)
   - ターミナルの出力に色をつけてくれるライブラリ
 
+## many_golang_articles
+
+- [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro?ref=cybrhome)
+- [Algorithms to Go](https://yourbasic.org/)
+- [golangprograms](http://www.golangprograms.com/)
+- [Qiita - Goタグ](https://qiita.com/tags/go)
+- [Go Language Patterns](http://www.golangpatterns.info/)
+- [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
+- [逆引きGolang](https://ashitani.jp/golangtips/index.html)
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Go by Example](https://gobyexample.com/)
+- [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
+- [Go Tutorial](https://www.tutorialspoint.com/go)
+
 ## golang
 
+- [How to use the io.Writer interface](https://yourbasic.org/golang/io-writer-interface-explained/)
+- [【Golang】io.Writer インタフェース](https://qiita.com/mztnnrt/items/2425fa2a70572c088f4a)
+- [【Golang】io.Readerインタフェース](https://qiita.com/mztnnrt/items/ddf6920a484e74f0ee1a)
+- [GoでHTTPサーバを立てる](https://qiita.com/kkyouhei/items/8ce72bf997fa353b7646)
+- [【golang】Unixドメインソケット通信](https://qiita.com/mztnnrt/items/009ad99387457ebe112d)
+- [【golang】UDPソケット通信](https://qiita.com/mztnnrt/items/406952f200fa956ebe1d)
+- [【Golang】TCPソケット通信](https://qiita.com/mztnnrt/items/3c02e2f0d5562a80a28f)
+- [Golangでのstreamの扱い方を学ぶ](https://christina04.hatenablog.com/entry/2017/01/06/190000)
+- [Goにはディレクトリ構成のスタンダードがあるらしい](https://qiita.com/sueken/items/87093e5941bfbc09bea8)
+  - 大事なのは、```cmd``` ディレクトリ. この下にアプリケーションの名前のディレクトリを作り、その下に ```main.go``` を配置
+- [Golangのスケジューラあたりの話](https://qiita.com/takc923/items/de68671ea889d8df6904)
 - [DockerでGoの開発環境を構築する](https://qiita.com/uji_/items/8c9eda89526abe0ba900)
 - [Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [6年間におけるGoのベストプラクティス](https://postd.cc/go-best-practices-2016/)
