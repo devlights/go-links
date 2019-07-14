@@ -70,6 +70,13 @@
 
 ## golang
 
+- [Introduction to Concurrency in Go: Gopher Farm](https://medium.com/@olena_stoliarova/introduction-to-concurrency-in-go-gopher-farm-3aa23f253420)
+- [Process synchronization monitors in go](https://medium.com/@angadsharma1016/process-synchronization-monitors-in-go-d31f4c42fce7)
+- [Bitmap indexes in Go: unbelievable search speed](https://badootech.badoo.com/bitmap-indexes-in-go-unbelievable-search-speed-bb4a6b00851)
+- [The anatomy of Slices in Go](https://medium.com/rungo/the-anatomy-of-slices-in-go-6450e3bb2b94)
+- [Writing a Chat Server in Go](https://medium.com/@nqbao/writing-a-chat-server-in-go-3b61ccc2a8ed)
+- [Go Pointers: Why I Use Interfaces (in Go)](https://medium.com/@kent.rancourt/go-pointers-why-i-use-interfaces-in-go-338ae0bdc9e4)
+- [Go’s wrapped return pattern to clean up objects with background goroutines](https://medium.com/@cep21/gos-wrapped-return-pattern-to-clean-up-objects-with-background-goroutines-b3454846a0d)
 - [How to use the io.Writer interface](https://yourbasic.org/golang/io-writer-interface-explained/)
 - [【Golang】io.Writer インタフェース](https://qiita.com/mztnnrt/items/2425fa2a70572c088f4a)
 - [【Golang】io.Readerインタフェース](https://qiita.com/mztnnrt/items/ddf6920a484e74f0ee1a)
