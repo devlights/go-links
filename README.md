@@ -26,6 +26,9 @@
 
 ## github
 
+- [vecty](https://github.com/gopherjs/vecty)
+- [bokchoy](https://github.com/thoas/bokchoy)
+  - Redisをバックエンドに利用しているシンプルなジョブキューライブラリ
 - [go-echarts](https://github.com/chenjiandongx/go-echarts)
   - チャートライブラリ。高機能。
 - [project-layout](https://github.com/golang-standards/project-layout)
@@ -56,6 +59,7 @@
 
 ## many_golang_articles
 
+- [Attempting to Learn Go](https://github.com/shindakun/atlg)
 - [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro?ref=cybrhome)
 - [Algorithms to Go](https://yourbasic.org/)
 - [golangprograms](http://www.golangprograms.com/)
@@ -70,6 +74,9 @@
 
 ## golang
 
+- [Go Slices are Fat Pointers](https://nullprogram.com/blog/2019/06/30/)
+- [Go: Improve the Usage of Your Goroutines with GODEBUG](https://medium.com/@blanchon.vincent/go-improve-the-usage-of-your-goroutines-with-godebug-4d1f33970c33)
+- [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever)
 - [Introduction to Concurrency in Go: Gopher Farm](https://medium.com/@olena_stoliarova/introduction-to-concurrency-in-go-gopher-farm-3aa23f253420)
 - [Process synchronization monitors in go](https://medium.com/@angadsharma1016/process-synchronization-monitors-in-go-d31f4c42fce7)
 - [Bitmap indexes in Go: unbelievable search speed](https://badootech.badoo.com/bitmap-indexes-in-go-unbelievable-search-speed-bb4a6b00851)
