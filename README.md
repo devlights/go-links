@@ -26,6 +26,7 @@
 
 ## github
 
+- [yaegi](https://github.com/containous/yaegi)
 - [vecty](https://github.com/gopherjs/vecty)
 - [bokchoy](https://github.com/thoas/bokchoy)
   - Redisをバックエンドに利用しているシンプルなジョブキューライブラリ
@@ -74,6 +75,14 @@
 
 ## golang
 
+- [Go言語でCSVファイルにレコードを追加する](https://qiita.com/uji_/items/ab4b358461dfb09e705d)
+- [Timeout a Function Call (with Goroutines & Channels)](https://golangcode.com/timing-out-a-goroutine/)
+- [Go言語でエクセルデータから情報を読み取る](https://qiita.com/ikeponsu/items/34a8ded9a6306c3b6468)
+- [Using Service Objects in Go](https://itnext.io/using-service-objects-in-go-d899dc599335)
+- [Go: Buffered and Unbuffered Channels](https://medium.com/@blanchon.vincent/go-buffered-and-unbuffered-channels-29a107c00268)
+- [Writing delightful HTTP middleware in Go](https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/)
+- [How to handle paths for supporting files in a package in Go?](https://forum.golangbridge.org/t/how-to-handle-paths-for-supporting-files-in-a-package-in-go/14651)
+- [5 reasons to use Golang](https://dev.to/carloslfu/5-reasons-to-use-golang-3d3h)
 - [Go Slices are Fat Pointers](https://nullprogram.com/blog/2019/06/30/)
 - [Go: Improve the Usage of Your Goroutines with GODEBUG](https://medium.com/@blanchon.vincent/go-improve-the-usage-of-your-goroutines-with-godebug-4d1f33970c33)
 - [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever)
