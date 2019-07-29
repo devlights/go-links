@@ -27,6 +27,7 @@
 ## github
 
 - [yaegi](https://github.com/containous/yaegi)
+  - Go用のインタープリターライブラリ
 - [vecty](https://github.com/gopherjs/vecty)
 - [bokchoy](https://github.com/thoas/bokchoy)
   - Redisをバックエンドに利用しているシンプルなジョブキューライブラリ
