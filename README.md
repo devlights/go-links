@@ -26,6 +26,12 @@
 
 ## github
 
+- [tview](https://github.com/rivo/tview)
+  - CUI用ライブラリ
+- [gocui](https://github.com/jroimartin/gocui)
+  - CUI用ライブラリ
+- [goban](https://github.com/eihigh/goban)
+  - [Goで世界一シンプルなCUIライブラリ](https://qiita.com/eihigh/items/20de07f5d8cec0df17ab)とのこと
 - [yaegi](https://github.com/containous/yaegi)
   - Go用のインタープリターライブラリ
 - [vecty](https://github.com/gopherjs/vecty)
@@ -76,6 +82,8 @@
 
 ## golang
 
+- [Goを書く時に気にすべきこと(よりリーダブルなコードにするために)](https://qiita.com/hiromichi_n/items/80340eee3d752fed6a8d)
+- [名前付き戻り値との正しい付き合い方](https://medium.com/eureka-engineering/named-return-values-7f485d867df0)
 - [Go言語でCSVファイルにレコードを追加する](https://qiita.com/uji_/items/ab4b358461dfb09e705d)
 - [Timeout a Function Call (with Goroutines & Channels)](https://golangcode.com/timing-out-a-goroutine/)
 - [Go言語でエクセルデータから情報を読み取る](https://qiita.com/ikeponsu/items/34a8ded9a6306c3b6468)
