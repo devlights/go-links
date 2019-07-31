@@ -26,6 +26,9 @@
 
 ## github
 
+- [go-cmp](https://github.com/google/go-cmp)
+  - 構造体の値比較用ライブラリ
+  - [構造体などをテストするのに便利なgoogle/go-cmpの使い方](https://qiita.com/hgsgtk/items/bd78bada902c91745fa5)
 - [ini](https://github.com/go-ini/ini)
   - Go から ini ファイルを扱うライブラリ
 - [sftpgo](https://github.com/drakkan/sftpgo)
@@ -83,6 +86,7 @@
 - [Go by Example](https://gobyexample.com/)
 - [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
 - [Go Tutorial](https://www.tutorialspoint.com/go)
+- [gotraining](https://github.com/ardanlabs/gotraining)
 
 ## golang
 
