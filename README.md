@@ -6,6 +6,7 @@
 
 - [基本](#basics)
 - [github](#github)
+- [TUI](#tui)
 - [情報が沢山あるサイト](#many_golang_articles)
 - [golang](#golang)
 - [gcp](#gcp)
@@ -64,13 +65,30 @@
   - set の 実装
 - [goquery](https://github.com/PuerkitoBio/goquery)
   - jqueryライクにHTMLを操作できるライブラリ
-- [awesome-go](https://github.com/avelino/awesome-go)
 - [deque(Extremely fast ring-buffer deque)](https://github.com/gammazero/deque)
 - [gore](https://github.com/motemen/gore)
   - Yet another Go REPL
   - Go言語用のREPL
 - [tint](https://github.com/printzero/tint)
   - ターミナルの出力に色をつけてくれるライブラリ
+
+## tui
+
+- [Termbox-go](https://github.com/nsf/termbox-go)
+  - [termbox](https://github.com/nsf/termbox) の Go版
+- [tcell](https://github.com/gdamore/tcell)
+  - termbox にインスパイアされたTUIライブラリ。機能多い。
+- [termui](https://github.com/gizak/termui)
+  - とても有名なライブラリ
+- [tui-go](https://github.com/marcusolsson/tui-go)
+- [gowid](https://github.com/gcla/gowid)
+  - urwid にインスパイアされて作成されたTUIライブラリ
+- [termdash](https://github.com/mum4k/termdash)
+  - すごく多機能
+- [gocui](https://github.com/jroimartin/gocui)
+- [sampler](https://github.com/sqshq/sampler)
+  - ライブラリではないけど、Goで作成されているTUIアプリ。とても高機能。YAMLで制御する。
+  - termuiを土台にしている。
 
 ## many_golang_articles
 
@@ -87,6 +105,7 @@
 - [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
 - [Go Tutorial](https://www.tutorialspoint.com/go)
 - [gotraining](https://github.com/ardanlabs/gotraining)
+- [awesome-go](https://github.com/avelino/awesome-go)
 
 ## golang
 
