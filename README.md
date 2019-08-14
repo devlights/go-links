@@ -24,9 +24,13 @@
 - [Go Packages](https://golang.org/pkg/)
 - [Go Playground](https://play.golang.org/)
 - [Go Wiki](https://github.com/golang/go/wiki)
+- [Using Go Modules](https://blog.golang.org/using-go-modules)
+  - [The Go Blog - Using Go Modules / Go Modulesを使う（和訳）](https://qiita.com/pokeh/items/139d0f1fe56e358ba597)
 
 ## github
 
+- [lazygit](https://github.com/jesseduffield/lazygit)
+  - gocuiを利用してる git 操作のための tui アプリケーション
 - [go-cmp](https://github.com/google/go-cmp)
   - 構造体の値比較用ライブラリ
   - [構造体などをテストするのに便利なgoogle/go-cmpの使い方](https://qiita.com/hgsgtk/items/bd78bada902c91745fa5)
@@ -106,9 +110,28 @@
 - [Go Tutorial](https://www.tutorialspoint.com/go)
 - [gotraining](https://github.com/ardanlabs/gotraining)
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
 
 ## golang
 
+- [How To Write Comments in Go](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-go)
+- [Understanding the GOPATH](https://www.digitalocean.com/community/tutorials/understanding-the-gopath)
+- [How To Write Your First Program in Go](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-program-in-go)
+- [How To Install Go and Set Up a Local Programming Environment on Windows 10](https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-windows-10)
+- [Understanding Maps in Go](https://www.digitalocean.com/community/tutorials/understanding-maps-in-go)
+- [An Introduction to Working with Strings in Go](https://www.digitalocean.com/community/tutorials/an-introduction-to-working-with-strings-in-go)
+- [How To Format Strings in Go](https://www.digitalocean.com/community/tutorials/how-to-format-strings-in-go)
+- [An Introduction to the Strings Package in Go](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go)
+- [Understanding Data Types in Go](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go)
+- [How To Convert Data Types in Go](https://www.digitalocean.com/community/tutorials/how-to-convert-data-types-in-go)
+- [Understanding Boolean Logic in Go](https://www.digitalocean.com/community/tutorials/understanding-boolean-logic-in-go)
+- [How To Do Math in Go with Operators](https://www.digitalocean.com/community/tutorials/how-to-do-math-in-go-with-operators)
+- [How To Use Variables and Constants in Go](https://www.digitalocean.com/community/tutorials/how-to-use-variables-and-constants-in-go)
+- [Understanding Arrays in Go](https://www.digitalocean.com/community/tutorials/understanding-arrays-in-go)
+- [Handling Errors in Go](https://www.digitalocean.com/community/tutorials/handling-errors-in-go)
+- [Importing Packages in Go](https://www.digitalocean.com/community/tutorials/importing-packages-in-go)
+- [How To Write Packages in Go](https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go)
+- [7 Easy functional programming techniques in Go](https://dev.to/deepu105/7-easy-functional-programming-techniques-in-go-3idp)
 - [mapの競合状態のはなし](http://imagawa.hatenadiary.jp/entry/2019/08/14/090000)
 - [Golang patterns: Leaky goroutines and how to clean them](https://medium.com/@manoj563125/golang-leaky-goroutines-and-how-to-clean-them-30b505417028)
 - [LinkList in GOlang (Adding Element)](https://medium.com/@nitaandroid121/linklist-in-golang-adding-element-4d5c70ab6c17)
