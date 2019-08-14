@@ -107,6 +107,7 @@
 - [Go Language Patterns](http://www.golangpatterns.info/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
 - [逆引きGolang](https://ashitani.jp/golangtips/index.html)
+- [Learning Go](https://www.miek.nl/go/)
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Go by Example](https://gobyexample.com/)
 - [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
@@ -114,6 +115,8 @@
 - [gotraining](https://github.com/ardanlabs/gotraining)
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
+- [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
+  - 有料電子書籍
 
 ## golang
 
