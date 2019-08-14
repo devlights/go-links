@@ -109,6 +109,14 @@
 
 ## golang
 
+- [LinkList in GOlang (Adding Element)](https://medium.com/@nitaandroid121/linklist-in-golang-adding-element-4d5c70ab6c17)
+- [[Go] function decorator in http.HandleFunc](https://medium.com/@yulang.chu/go-function-decorator-in-http-handlefunc-6c9b20d003ad)
+- [[Go] Function in Strategy pattern](https://medium.com/@yulang.chu/go-function-in-strategy-pattern-efd088d345de)
+- [[Go] Function as arguments or returned value: Some use cases](https://medium.com/@yulang.chu/go-function-as-arguments-or-returned-value-some-use-cases-6d5bc15a84ab)
+- [[Go] Stack or heap(4): improving heap performance with sync.Pool](https://medium.com/@yulang.chu/go-stack-or-heap-4-improving-heap-performance-with-sync-pool-1f798a16f126)
+- [[Go] Stack or heap(3): non-inline struct could cause escape to heap](https://medium.com/@yulang.chu/go-stack-or-heap-3-non-inline-struct-could-cause-escape-to-heap-a443e4b1213)
+- [[Go] Stack or heap(2): slices which keep in stack have limitation of size](https://medium.com/@yulang.chu/go-stack-or-heap-2-slices-which-keep-in-stack-have-limitation-of-size-b3f3adfd6190)
+- [[Go] Stack or heap(1): does it matter?](https://medium.com/@yulang.chu/go-stack-or-heap-1-does-it-matter-67144803deb3)
 - [One Program Written in Python, Go, and Rust](http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/)
 - [(Tiny)Go to WebAssembly](https://dev.to/sendilkumarn/tiny-go-to-webassembly-5168)
 - [Routing with Channel and Goroutine (P2)](https://medium.com/@owlwalks/routing-with-channel-and-goroutine-p2-519e17ec519d)
