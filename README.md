@@ -109,6 +109,8 @@
 
 ## golang
 
+- [mapの競合状態のはなし](http://imagawa.hatenadiary.jp/entry/2019/08/14/090000)
+- [Golang patterns: Leaky goroutines and how to clean them](https://medium.com/@manoj563125/golang-leaky-goroutines-and-how-to-clean-them-30b505417028)
 - [LinkList in GOlang (Adding Element)](https://medium.com/@nitaandroid121/linklist-in-golang-adding-element-4d5c70ab6c17)
 - [[Go] function decorator in http.HandleFunc](https://medium.com/@yulang.chu/go-function-decorator-in-http-handlefunc-6c9b20d003ad)
 - [[Go] Function in Strategy pattern](https://medium.com/@yulang.chu/go-function-in-strategy-pattern-efd088d345de)
