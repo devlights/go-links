@@ -29,6 +29,9 @@
 
 ## github
 
+- [errors](https://github.com/pkg/errors)
+  - このパッケージは現在メンテナンスモードにはいっている
+  - [Go2 error proposals](https://go.googlesource.com/proposal/+/master/design/go2draft.md)があるため
 - [lazygit](https://github.com/jesseduffield/lazygit)
   - gocuiを利用してる git 操作のための tui アプリケーション
 - [go-cmp](https://github.com/google/go-cmp)
@@ -114,6 +117,15 @@
 
 ## golang
 
+- [Golangでログを吐くコツ](https://www.kaoriya.net/blog/2018/12/16/)
+- [golang でループを手っ取り早く並列化する方法](https://www.kaoriya.net/blog/2013/07/08/)
+- [設定ファイルとしての main.go](https://www.kaoriya.net/blog/2017/12/10/)
+- [SHOULD I GO? THE PROS AND CONS OF USING GO PROGRAMMING LANGUAGE](https://mobilejazz.com/blog/should-i-go-the-pros-and-cons-of-using-go-programming-language/)
+- [Go 1.13 に向けて知っておきたい Go Modules とそれを取り巻くエコシステム](https://syfm.hatenablog.com/entry/2019/08/10/170730)
+- [The syntax of `go build` command](https://forum.golangbridge.org/t/the-syntax-of-go-build-command/14880)
+- [Learn Golang Basic Syntax in 10 Minutes](https://medium.com/@manus.can/learn-golang-basic-syntax-in-10-minutes-48608a315896)
+- [Creational Design Pattern in GO](https://medium.com/@rojace.shrestha/creational-design-pattern-in-go-b78cce98f328)
+- [Methods in Go! Confusing ?](https://medium.com/@milinddhoke.in/methods-in-go-confusing-52bf589659c3)
 - [How To Write Comments in Go](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-go)
 - [Understanding the GOPATH](https://www.digitalocean.com/community/tutorials/understanding-the-gopath)
 - [How To Write Your First Program in Go](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-program-in-go)
