@@ -29,6 +29,14 @@
 
 ## github
 
+- [go-funk](https://github.com/thoas/go-funk)
+  - go-linqやkoazeeと同じようなライブラリ
+- [go-linq](https://github.com/ahmetb/go-linq)
+  - GoでC#のLinqみたいな操作を出来るようになるライブラリ
+- [koazee](https://github.com/wesovilabs/koazee)
+  - 配列やスライスをJavaのStreamやC#のLinqみたいに扱えるようにしてくれるライブラリ
+- [backoff](https://github.com/cenkalti/backoff)
+  - Exponential backoff アルゴリズム
 - [errors](https://github.com/pkg/errors)
   - このパッケージは現在メンテナンスモードにはいっている
   - [Go2 error proposals](https://go.googlesource.com/proposal/+/master/design/go2draft.md)があるため
@@ -103,6 +111,7 @@
 - [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro?ref=cybrhome)
 - [Algorithms to Go](https://yourbasic.org/)
 - [golangprograms](http://www.golangprograms.com/)
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 - [Qiita - Goタグ](https://qiita.com/tags/go)
 - [Go Language Patterns](http://www.golangpatterns.info/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
@@ -120,6 +129,13 @@
 
 ## golang
 
+- [Go lang Reflection?](https://medium.com/@heshani.samarasekara/go-lang-reflection-aa6089c93cd8)
+- [【Golang】コアラのように怠惰でチンパンジーのように賢い、高速配列操作ライブラリ「Koazee」使ってみた](https://qiita.com/nqdior/items/e225eae820d6157dc05b)
+- [LinkList in GoLang (Delete Element)](https://medium.com/@nitaandroid121/linklist-in-golang-delete-element-371c1289038)
+- [LinkList in GOlang (Adding Element)](https://medium.com/@nitaandroid121/linklist-in-golang-adding-element-4d5c70ab6c17)
+- [The Simplest Way to Handle Timeouts in Golang](https://medium.com/@arindamroy/the-simplest-way-to-handle-timeouts-in-golang-11e371dc6188)
+- [なぜ私達は Python から Go に移行したのか](https://frasco.io/why-we-switched-from-python-to-go-19581e27de7c)
+- [Golang を使うなら Makefile を恐れるな](https://frasco.io/golang-dont-afraid-of-makefiles-785f3ec7eb32)
 - [Golangでログを吐くコツ](https://www.kaoriya.net/blog/2018/12/16/)
 - [golang でループを手っ取り早く並列化する方法](https://www.kaoriya.net/blog/2013/07/08/)
 - [設定ファイルとしての main.go](https://www.kaoriya.net/blog/2017/12/10/)
@@ -149,7 +165,6 @@
 - [7 Easy functional programming techniques in Go](https://dev.to/deepu105/7-easy-functional-programming-techniques-in-go-3idp)
 - [mapの競合状態のはなし](http://imagawa.hatenadiary.jp/entry/2019/08/14/090000)
 - [Golang patterns: Leaky goroutines and how to clean them](https://medium.com/@manoj563125/golang-leaky-goroutines-and-how-to-clean-them-30b505417028)
-- [LinkList in GOlang (Adding Element)](https://medium.com/@nitaandroid121/linklist-in-golang-adding-element-4d5c70ab6c17)
 - [[Go] function decorator in http.HandleFunc](https://medium.com/@yulang.chu/go-function-decorator-in-http-handlefunc-6c9b20d003ad)
 - [[Go] Function in Strategy pattern](https://medium.com/@yulang.chu/go-function-in-strategy-pattern-efd088d345de)
 - [[Go] Function as arguments or returned value: Some use cases](https://medium.com/@yulang.chu/go-function-as-arguments-or-returned-value-some-use-cases-6d5bc15a84ab)
