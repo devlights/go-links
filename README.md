@@ -29,6 +29,7 @@
 
 ## github
 
+- [gogs](https://github.com/gogs/gogs)
 - [go-funk](https://github.com/thoas/go-funk)
   - go-linqやkoazeeと同じようなライブラリ
 - [go-linq](https://github.com/ahmetb/go-linq)
@@ -127,9 +128,25 @@
 - [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
 - [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
   - 有料電子書籍
+- [golangConcepts](https://github.com/premaseem/golangConcepts)
+- [GoLang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 
 ## golang
 
+- [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
+- [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
+- [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
+- [Go の channel に出てくる矢印の意味](https://qiita.com/TsuyoshiUshio@github/items/d94a3d0f934bde6d6aed)
+- [Notes on TCP keepalive in Go](https://thenotexpert.com/golang-tcp-keepalive/)
+- [Simple server for a binary protocol in Golang](https://thenotexpert.com/simple-server-binary-protocol-golang/)
+- [Notes on various features of Golang](https://thenotexpert.com/golang-advanced/)
+- [Slices in Go. Expandable or not?](https://thenotexpert.com/golang-slices/)
+- [Typed nil in Go... wait, what?](https://thenotexpert.com/golang-typed-nils/)
+- [How To Create Your Own CLI — With Golang](https://itnext.io/how-to-create-your-own-cli-with-golang-3c50727ac608)
+- [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
+- [Learn Go By Building a Command-Line App](https://medium.com/xebia-engineering/learn-go-by-building-a-command-line-app-bedf32980c0b)
+- [Work queue with Go and RabbitMQ](https://medium.com/@masnun/work-queue-with-go-and-rabbitmq-b8c295cde861)
+- [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 - [Go言語で書かれたアプリケーションをダウンタイムゼロでデプロイする方法](https://qiita.com/Ryoma0413/items/53006cc1b8f6a5174751)
 - [Go言語の埋め込みについて4つのポイントでまとめてみた](https://qiita.com/momotaro98/items/4f6e2facc40a3f37c3c3)
 - [Go routine without a panic](https://medium.com/@mourya.g9/go-routine-without-a-panic-2b03e0546683)
