@@ -130,6 +130,11 @@
 
 ## golang
 
+- [Linked Lists — in Go!](https://medium.com/@priyanshsangule/data-structures-with-go-linked-list-d1b11c1a90e0)
+- [構造体オブジェクト初期化時にフィールド名を指定することを強制する](https://budougumi0617.github.io/2019/08/17/must-use-key-in-struct-initialize/)
+- [Pass by reference vs pass by value](https://forum.golangbridge.org/t/pass-by-reference-vs-pass-by-value/15005)
+  - めっちゃ分かりやすい図がある
+- [A Goroutines Gotcha](https://medium.com/@psinghal04/a-goroutines-gotcha-7d7441c7758f)
 - [Go lang Reflection?](https://medium.com/@heshani.samarasekara/go-lang-reflection-aa6089c93cd8)
 - [【Golang】コアラのように怠惰でチンパンジーのように賢い、高速配列操作ライブラリ「Koazee」使ってみた](https://qiita.com/nqdior/items/e225eae820d6157dc05b)
 - [LinkList in GoLang (Delete Element)](https://medium.com/@nitaandroid121/linklist-in-golang-delete-element-371c1289038)
