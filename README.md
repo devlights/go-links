@@ -130,6 +130,9 @@
 
 ## golang
 
+- [Go言語で書かれたアプリケーションをダウンタイムゼロでデプロイする方法](https://qiita.com/Ryoma0413/items/53006cc1b8f6a5174751)
+- [Go言語の埋め込みについて4つのポイントでまとめてみた](https://qiita.com/momotaro98/items/4f6e2facc40a3f37c3c3)
+- [Go routine without a panic](https://medium.com/@mourya.g9/go-routine-without-a-panic-2b03e0546683)
 - [Linked Lists — in Go!](https://medium.com/@priyanshsangule/data-structures-with-go-linked-list-d1b11c1a90e0)
 - [構造体オブジェクト初期化時にフィールド名を指定することを強制する](https://budougumi0617.github.io/2019/08/17/must-use-key-in-struct-initialize/)
 - [Pass by reference vs pass by value](https://forum.golangbridge.org/t/pass-by-reference-vs-pass-by-value/15005)
