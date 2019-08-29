@@ -29,6 +29,9 @@
 
 ## github
 
+- [godu](https://github.com/viktomas/godu)
+  - 指定されたディレクトリ配下の大きなサイズを持つファイルを探すツール
+  - ```du``` コマンドみたいな感じ
 - [gogs](https://github.com/gogs/gogs)
 - [go-funk](https://github.com/thoas/go-funk)
   - go-linqやkoazeeと同じようなライブラリ
@@ -130,9 +133,12 @@
   - 有料電子書籍
 - [golangConcepts](https://github.com/premaseem/golangConcepts)
 - [GoLang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
+- [algorithms](https://github.com/x899/algorithms)
 
 ## golang
 
+- [Singleton vs Multiton](https://medium.com/@hafizputraludyanto/singleton-vs-multiton-golang-1fed3e984c36)
+- [Ultimate Golang String Formatting Cheat Sheet](https://medium.com/@arindamroy/ultimate-golang-string-formatting-cheat-sheet-234ec92c97da)
 - [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
 - [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
 - [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
