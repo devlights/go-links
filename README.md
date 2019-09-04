@@ -111,6 +111,11 @@
 
 ## many_golang_articles
 
+- [Network Programming with Go by Jan Newmarch](http://tumregels.github.io/Network-Programming-with-Go/)
+- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
+- [Test-driven development with Go](https://leanpub.com/golang-tdd/read)
+  - 書籍は有料だけどオンラインで無料で読める
 - [Attempting to Learn Go](https://github.com/shindakun/atlg)
 - [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro?ref=cybrhome)
 - [Algorithms to Go](https://yourbasic.org/)
@@ -137,6 +142,13 @@
 
 ## golang
 
+- [急いで学ぶGo lang#7 range・Array・slice・map](https://dev.classmethod.jp/go/golang-7/)
+- [急いで学ぶGo lang#6 インターフェイス](https://dev.classmethod.jp/go/golang-6/)
+- [急いで学ぶGo lang#5 構造体](https://dev.classmethod.jp/server-side/language/golang-5/)
+- [急いで学ぶGo lang#4 関数・ポインタ・制御構文](https://dev.classmethod.jp/server-side/language/golang-4/)
+- [急いで学ぶGo lang#3 まずは基本構文](https://dev.classmethod.jp/server-side/language/golang-3/)
+- [急いで学ぶGo lang#2 IntelliJ IDEAでGo開発](https://dev.classmethod.jp/server-side/language/golang-2/)
+- [急いで学ぶGo lang#1 概要とセットアップ](https://dev.classmethod.jp/server-side/language/golang-1/)
 - [Singleton vs Multiton](https://medium.com/@hafizputraludyanto/singleton-vs-multiton-golang-1fed3e984c36)
 - [Ultimate Golang String Formatting Cheat Sheet](https://medium.com/@arindamroy/ultimate-golang-string-formatting-cheat-sheet-234ec92c97da)
 - [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
