@@ -29,6 +29,10 @@
 
 ## github
 
+- [parallelizer](https://github.com/shomali11/parallelizer)
+  - go func などで待ち合わせなどを行う際にいちいち sync.WaitGroup などを使わなくてもよくなるライブラリ
+- [script](https://github.com/bitfield/script)
+  - Goでシェルライクなスクリプトをかけるようにしてくれるライブラリ
 - [godu](https://github.com/viktomas/godu)
   - 指定されたディレクトリ配下の大きなサイズを持つファイルを探すツール
   - ```du``` コマンドみたいな感じ
@@ -111,6 +115,7 @@
 
 ## many_golang_articles
 
+- [Go言語の勉強に役立つリンク集](https://qiita.com/nemui_/items/35064455964241b6307d)
 - [Network Programming with Go by Jan Newmarch](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
@@ -140,9 +145,25 @@
 - [GoLang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 - [algorithms](https://github.com/x899/algorithms)
 - [Go Tutorials (Digital Ocean)](https://www.digitalocean.com/community/tags/go/tutorials)
+- [Go newsletters gallery - Dor Moshe's Blog](https://dormoshe.io/newsletters/ag/golang)
+- [TutorialEdge.net - Golang](https://tutorialedge.net/course/golang/)
 
 ## golang
 
+- [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
+- [Parallel processing in golang](https://stackoverflow.com/questions/25106526/parallel-processing-in-golang)
+- [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
+- [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/)
+- [GO MEMORY MANAGEMENT](https://povilasv.me/go-memory-management/)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [Go + gRPCによるマイクロサービス構築](https://user-first.ikyu.co.jp/entry/2019/06/17/100000)
+- [goroutineとチャネルの動きを図を使って理解する(和訳)](https://qiita.com/hirano00o/items/828393342efcd80aa2e6)
+  - [A visual introduction to golang concurrency and goroutines](https://stackedco.de/a-visual-introduction-to-golang-goroutines)
+- [リトライ処理の効率的アプローチ「Exponential Backoff」の概要とGoによる実装](https://qiita.com/po3rin/items/c80dea298f16a2625dbe)
+- [Goといえばチャネルでしょ！！！　第3弾](https://qiita.com/besood/items/62838cc3f0bdadbf3f29)
+- [Golangでゴルーチンを触ってみる　第二弾](https://qiita.com/besood/items/fe48f295c2e1816f5a14)
+- [俺もgolangでゴルーチン触ってみたい！！](https://qiita.com/besood/items/450c39404ddec4b68936)
+- [いまさらだけどgRPCに入門したので分かりやすくまとめてみた](https://qiita.com/gold-kou/items/a1cc2be6045723e242eb)
 - [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
 - [急いで学ぶGo lang#7 range・Array・slice・map](https://dev.classmethod.jp/go/golang-7/)
 - [急いで学ぶGo lang#6 インターフェイス](https://dev.classmethod.jp/go/golang-6/)
