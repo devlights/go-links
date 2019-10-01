@@ -26,6 +26,8 @@
 - [Go Wiki](https://github.com/golang/go/wiki)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
   - [The Go Blog - Using Go Modules / Go Modulesを使う（和訳）](https://qiita.com/pokeh/items/139d0f1fe56e358ba597)
+- [project-layout](https://github.com/golang-standards/project-layout)
+  - Go言語のプロジェクト構成についての資料
 
 ## github
 
@@ -70,8 +72,6 @@
   - Redisをバックエンドに利用しているシンプルなジョブキューライブラリ
 - [go-echarts](https://github.com/chenjiandongx/go-echarts)
   - チャートライブラリ。高機能。
-- [project-layout](https://github.com/golang-standards/project-layout)
-  - Go言語のプロジェクト構成についての資料
 - [excelize](https://github.com/360EntSecGroup-Skylar/excelize)
   - Excelを操作できるライブラリ。```xlsx``` と比べて多機能
   - セル指定が ```A1``` 形式なのですこし使いづらい印象
