@@ -17,6 +17,8 @@
 ## basics
 
 - [Go Official Page](https://golang.org/)
+  - [Go 1.12 リリースノート](https://qiita.com/c-yan/items/5001121aa6a9566c7466)
+  - [Go 1.13 リリースノート](https://qiita.com/c-yan/items/b2f5e5c168d517594eb2)
 - [Go Documentation](https://golang.org/doc/)
 - [Go Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Blog](https://blog.golang.org/)
@@ -39,10 +41,15 @@
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
   - Goのプロジェクトレイアウトについて分かりやすい説明がある
 - [The Magic of Go Comments](https://blog.jbowen.dev/2019/09/the-magic-of-go-comments/)
+- [GoDocドキュメントで知っていると便利な機能](https://qiita.com/lufia/items/97acb391c26f967048f1)
+- [go doc の使い方・コメントを書いて、ちゃんと読む](https://qiita.com/ayasuda/items/53933c83d0fb7152c7e9)
 - [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
+- [Why you should use go programming?](https://medium.com/@solaceinfotechh/why-you-should-use-go-programming-f6de093be3f3)
 
 ## github
 
+- [litter](https://github.com/sanity-io/litter)
+  - データを見やすい形で出力してくれるライブラリ
 - [watermill](https://github.com/ThreeDotsLabs/watermill)
   - Watermill is a Go library for working efficiently with message streams.
 - [v8go](https://github.com/rogchap/v8go)
@@ -69,6 +76,7 @@
   - Exponential backoff アルゴリズム
 - [errors](https://github.com/pkg/errors)
   - このパッケージは現在メンテナンスモードにはいっている
+  - Go1.13で errors パッケージになった
   - [Go2 error proposals](https://go.googlesource.com/proposal/+/master/design/go2draft.md)があるため
 - [lazygit](https://github.com/jesseduffield/lazygit)
   - gocuiを利用してる git 操作のための tui アプリケーション
@@ -171,9 +179,20 @@
 - [golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
 - [Practical Go](https://dave.cheney.net/practical-go)
 - [A Journey With Go](https://medium.com/a-journey-with-go)
+- [ゼロからはじめるGo言語](https://news.mynavi.jp/series/gogogo)
 
 ## golang
 
+- [Using Golang as a scripting language](https://dev.to/eminetto/using-golang-as-a-scripting-language-jl2)
+- [Program Structure and Composability](https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html)
+- [Context Package Semantics In Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
+- [Instrumenting Go applications](https://banzaicloud.com/blog/instrumenting-go-applications/)
+- [Golang: How to handle Errors in v1.13](https://medium.com/@felipedutratine/golang-how-to-handle-errors-in-v1-13-fda7f035d027)
+- [Breadth-first search using Go standard library](https://cybernetist.com/2019/03/09/breadth-first-search-using-go-standard-library/)
+- [Go Docker](https://medium.com/monstar-lab-bangladesh-engineering/go-docker-2843a9339913)
+- [エラーの種類によって処理を分けるBESTな方法](https://qiita.com/yoshinori_hisakawa/items/15bf0307245744deb4fc)
+- [Goのtimeパッケージチートシート](https://qiita.com/wMETAw/items/2c3120d1338c646ecfba)
+- [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 - [Golang syntax cheat sheet](https://medium.com/@phuctm97/golang-syntax-cheat-sheet-424a1ec6ae30)
 - [Using io.Reader/io.Writer in Go to stream data](https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg)
 - [Introducing Ristretto: A High-Performance Go Cache](https://blog.dgraph.io/post/introducing-ristretto-high-perf-go-cache/)
