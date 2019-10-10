@@ -19,6 +19,8 @@
 - [Go Official Page](https://golang.org/)
 - [Go Documentation](https://golang.org/doc/)
 - [Go Effective Go](https://golang.org/doc/effective_go.html)
+- [Go Blog](https://blog.golang.org/)
+  - [Go言語の文字列、バイト、ルーンと文字（翻訳）](https://qiita.com/KojiOhki/items/cf50c3afe52624b5f69e)
 - [Go FAQ](https://golang.org/doc/faq)
 - [Go Tour of Go](https://tour.golang.org/welcome/1)
 - [Go Packages](https://golang.org/pkg/)
@@ -157,6 +159,7 @@
 - [gotraining](https://github.com/ardanlabs/gotraining)
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
+- [Phil Pearl@medium](https://medium.com/@philpearl)
 - [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
   - 有料電子書籍
 - [golangConcepts](https://github.com/premaseem/golangConcepts)
@@ -171,6 +174,8 @@
 
 ## golang
 
+- [Golang syntax cheat sheet](https://medium.com/@phuctm97/golang-syntax-cheat-sheet-424a1ec6ae30)
+- [Using io.Reader/io.Writer in Go to stream data](https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg)
 - [Introducing Ristretto: A High-Performance Go Cache](https://blog.dgraph.io/post/introducing-ristretto-high-perf-go-cache/)
 - [Go 言語の環境変数管理](https://text.baldanders.info/golang/go-env/)
 - [Go言語開発を便利にするMakefileの書き方](https://qiita.com/yoskeoka/items/317a3afab370155b3ae8)
