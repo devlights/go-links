@@ -28,9 +28,20 @@
   - [The Go Blog - Using Go Modules / Go Modulesを使う（和訳）](https://qiita.com/pokeh/items/139d0f1fe56e358ba597)
 - [project-layout](https://github.com/golang-standards/project-layout)
   - Go言語のプロジェクト構成についての資料
+- [Go CodeReviewComments 日本語翻訳](https://qiita.com/knsh14/items/8b73b31822c109d4c497)
+  - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
+- [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
+- [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
+  - Goのプロジェクトレイアウトについて分かりやすい説明がある
+- [The Magic of Go Comments](https://blog.jbowen.dev/2019/09/the-magic-of-go-comments/)
+- [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
 
 ## github
 
+- [packr](https://github.com/gobuffalo/packr)
+  - バイナリに静的ファイルを埋め込むためのライブラリ
+- [sprig](https://github.com/Masterminds/sprig)
 - [parallelizer](https://github.com/shomali11/parallelizer)
   - go func などで待ち合わせなどを行う際にいちいち sync.WaitGroup などを使わなくてもよくなるライブラリ
 - [script](https://github.com/bitfield/script)
@@ -148,9 +159,14 @@
 - [Go newsletters gallery - Dor Moshe's Blog](https://dormoshe.io/newsletters/ag/golang)
 - [TutorialEdge.net - Golang](https://tutorialedge.net/course/golang/)
 - [golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
+- [Practical Go](https://dave.cheney.net/practical-go)
+- [A Journey With Go](https://medium.com/a-journey-with-go)
 
 ## golang
 
+- [Functional Option Pattern](https://blog.web-apps.tech/go-functional-option-pattern/)
+- [Golang Receiver vs Function Argument](https://grisha.org/blog/2016/09/22/golang-receiver-vs-function/)
+- [struct に依存しない処理は function に切り出すのか、method に切り出すのか](https://www.pospome.work/entry/2017/01/16/233351)
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Parallel processing in golang](https://stackoverflow.com/questions/25106526/parallel-processing-in-golang)
 - [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
@@ -165,7 +181,6 @@
 - [Golangでゴルーチンを触ってみる　第二弾](https://qiita.com/besood/items/fe48f295c2e1816f5a14)
 - [俺もgolangでゴルーチン触ってみたい！！](https://qiita.com/besood/items/450c39404ddec4b68936)
 - [いまさらだけどgRPCに入門したので分かりやすくまとめてみた](https://qiita.com/gold-kou/items/a1cc2be6045723e242eb)
-- [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
 - [急いで学ぶGo lang#7 range・Array・slice・map](https://dev.classmethod.jp/go/golang-7/)
 - [急いで学ぶGo lang#6 インターフェイス](https://dev.classmethod.jp/go/golang-6/)
 - [急いで学ぶGo lang#5 構造体](https://dev.classmethod.jp/server-side/language/golang-5/)
