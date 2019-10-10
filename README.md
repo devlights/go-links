@@ -24,6 +24,8 @@
 - [Go Packages](https://golang.org/pkg/)
 - [Go Playground](https://play.golang.org/)
 - [Go Wiki](https://github.com/golang/go/wiki)
+- [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+  - Goが生まれた背景と言語の特徴について(Rob Pike氏)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
   - [The Go Blog - Using Go Modules / Go Modulesを使う（和訳）](https://qiita.com/pokeh/items/139d0f1fe56e358ba597)
 - [project-layout](https://github.com/golang-standards/project-layout)
@@ -39,6 +41,11 @@
 
 ## github
 
+- [watermill](https://github.com/ThreeDotsLabs/watermill)
+  - Watermill is a Go library for working efficiently with message streams.
+- [v8go](https://github.com/rogchap/v8go)
+  - GoからJavascriptを呼び出すライブラリ
+- [ristretto](https://github.com/dgraph-io/ristretto)
 - [packr](https://github.com/gobuffalo/packr)
   - バイナリに静的ファイルを埋め込むためのライブラリ
 - [sprig](https://github.com/Masterminds/sprig)
@@ -164,6 +171,11 @@
 
 ## golang
 
+- [Introducing Ristretto: A High-Performance Go Cache](https://blog.dgraph.io/post/introducing-ristretto-high-perf-go-cache/)
+- [Go 言語の環境変数管理](https://text.baldanders.info/golang/go-env/)
+- [Go言語開発を便利にするMakefileの書き方](https://qiita.com/yoskeoka/items/317a3afab370155b3ae8)
+- [Golang - Makefileの書き方](https://qiita.com/so_heee_/items/95c3c95da2104d895205)
+- [いまさら人に聞けないmake入門](http://system.blog.uuum.jp/entry/make)
 - [Functional Option Pattern](https://blog.web-apps.tech/go-functional-option-pattern/)
 - [Golang Receiver vs Function Argument](https://grisha.org/blog/2016/09/22/golang-receiver-vs-function/)
 - [struct に依存しない処理は function に切り出すのか、method に切り出すのか](https://www.pospome.work/entry/2017/01/16/233351)
