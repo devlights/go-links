@@ -28,6 +28,8 @@
 - [Go Packages](https://golang.org/pkg/)
 - [Go Playground](https://play.golang.org/)
 - [Go Wiki](https://github.com/golang/go/wiki)
+- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
+- [A theory of modern Go](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
   - Goが生まれた背景と言語の特徴について(Rob Pike氏)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
