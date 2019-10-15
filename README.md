@@ -28,6 +28,8 @@
 - [Go Packages](https://golang.org/pkg/)
 - [Go Playground](https://play.golang.org/)
 - [Go Wiki](https://github.com/golang/go/wiki)
+- [Go言語のGo紹介](https://qiita.com/matsutake/items/494275320c78986d1363)
+  - 公式の [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article) や [FAQ](https://golang.org/doc/faq) の和訳を交えながら、とても分かりやすく説明してくれている。
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
 - [A theory of modern Go](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html)
 - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
