@@ -9,6 +9,7 @@
 - [TUI](#tui)
 - [情報が沢山あるサイト](#many_golang_articles)
 - [golang](#golang)
+- [testing](#testing)
 - [gcp](#gcp)
 - [Goならわかるシステムプログラミング](#go_system_programming)
 
@@ -40,8 +41,6 @@
   - Go言語のプロジェクト構成についての資料
 - [Go CodeReviewComments 日本語翻訳](https://qiita.com/knsh14/items/8b73b31822c109d4c497)
   - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
-- [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
-- [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
   - Goのプロジェクトレイアウトについて分かりやすい説明がある
 - [The Magic of Go Comments](https://blog.jbowen.dev/2019/09/the-magic-of-go-comments/)
@@ -154,18 +153,18 @@
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
 - [Test-driven development with Go](https://leanpub.com/golang-tdd/read)
   - 書籍は有料だけどオンラインで無料で読める
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Attempting to Learn Go](https://github.com/shindakun/atlg)
 - [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro?ref=cybrhome)
 - [Algorithms to Go](https://yourbasic.org/)
 - [golangprograms](http://www.golangprograms.com/)
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go)
 - [Qiita - Goタグ](https://qiita.com/tags/go)
 - [Go Language Patterns](http://www.golangpatterns.info/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
 - [逆引きGolang](https://ashitani.jp/golangtips/index.html)
 - [Learning Go](https://www.miek.nl/go/)
-- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Go by Example](https://gobyexample.com/)
 - [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
 - [Go Tutorial](https://www.tutorialspoint.com/go)
@@ -173,6 +172,7 @@
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
 - [Phil Pearl@medium](https://medium.com/@philpearl)
+- [Can Tepakidareekul@medium](https://medium.com/@manus.can)
 - [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
   - 有料電子書籍
 - [golangConcepts](https://github.com/premaseem/golangConcepts)
@@ -188,7 +188,6 @@
 
 ## golang
 
-- [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
 - [Array and Slices In GO](https://medium.com/@rahulrd005/introduction-to-array-and-slices-in-go-14b7d08a8f1f)
 - [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
 - [Go言語で日付処理](https://mattn.kaoriya.net/software/lang/go/20130620173712.htm)
@@ -245,10 +244,8 @@
 - [Slices in Go. Expandable or not?](https://thenotexpert.com/golang-slices/)
 - [Typed nil in Go... wait, what?](https://thenotexpert.com/golang-typed-nils/)
 - [How To Create Your Own CLI — With Golang](https://itnext.io/how-to-create-your-own-cli-with-golang-3c50727ac608)
-- [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
 - [Learn Go By Building a Command-Line App](https://medium.com/xebia-engineering/learn-go-by-building-a-command-line-app-bedf32980c0b)
 - [Work queue with Go and RabbitMQ](https://medium.com/@masnun/work-queue-with-go-and-rabbitmq-b8c295cde861)
-- [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 - [Go言語で書かれたアプリケーションをダウンタイムゼロでデプロイする方法](https://qiita.com/Ryoma0413/items/53006cc1b8f6a5174751)
 - [Go言語の埋め込みについて4つのポイントでまとめてみた](https://qiita.com/momotaro98/items/4f6e2facc40a3f37c3c3)
 - [Go routine without a panic](https://medium.com/@mourya.g9/go-routine-without-a-panic-2b03e0546683)
@@ -324,13 +321,23 @@
 - [Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 - [6年間におけるGoのベストプラクティス](https://postd.cc/go-best-practices-2016/)
 - [私のプログラミングの始め方 : Go](https://yakst.com/ja/posts/831)
-- [Go入門②~package/importについて・簡単なtestコードを書いてみる~](https://qiita.com/shuuuting95/items/aedfff75e2083688c579)
 - [Go言語 termdash のBarChart（棒グラフ）の使い方（CPU使用率表示）](https://qiita.com/h6591/items/b9f3282dc5f41f6150c2)
 - [Go言語 コンソールモードでコンソール上にグラフ、ボタン、スクロールテキストを表示するtermdashの紹介](https://qiita.com/h6591/items/2964ec7c8d8e53d5ac0a)
 - [Pipes 101 with Go](http://www.albertoleal.me/posts/golang-pipes.html)
 - [Golangの良いところ](https://christina04.hatenablog.com/entry/why-golang-is-good)
 - [Non-Blocking I/O, I/O Multiplexing, Asynchronous I/Oの区別](https://christina04.hatenablog.com/entry/2017/07/05/005944)
 - [イベントループなしでのハイパフォーマンス – C10K問題へのGoの回答](https://postd.cc/performance-without-the-event-loop/)
+
+## testing
+
+- [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
+- [Goのtestを理解する in 2019](https://budougumi0617.github.io/2019/10/30/go-testing2019/)
+- [Goでシンプルに単体テストを書く](https://qiita.com/hz1_d/items/bfbcb508adbf8a99ad58)
+- [テストを実行する（go testの利用）](https://www.yoheim.net/blog.php?q=20170903)
+- [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
+- [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
+- [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
+- [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 
 ## gcp
 
