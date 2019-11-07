@@ -49,6 +49,7 @@
 - [go doc の使い方・コメントを書いて、ちゃんと読む](https://qiita.com/ayasuda/items/53933c83d0fb7152c7e9)
 - [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
 - [Why you should use go programming?](https://medium.com/@solaceinfotechh/why-you-should-use-go-programming-f6de093be3f3)
+- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## github
 
@@ -187,6 +188,10 @@
 
 ## golang
 
+- [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
+- [Array and Slices In GO](https://medium.com/@rahulrd005/introduction-to-array-and-slices-in-go-14b7d08a8f1f)
+- [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
+- [Go言語で日付処理](https://mattn.kaoriya.net/software/lang/go/20130620173712.htm)
 - [Using Golang as a scripting language](https://dev.to/eminetto/using-golang-as-a-scripting-language-jl2)
 - [Program Structure and Composability](https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html)
 - [Context Package Semantics In Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
