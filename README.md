@@ -188,6 +188,7 @@
 
 ## golang
 
+- [10 things I like about Go](https://medium.com/@meeusdylan/go-10-reasons-i-enjoy-go-ef3c3352174)
 - [Array and Slices In GO](https://medium.com/@rahulrd005/introduction-to-array-and-slices-in-go-14b7d08a8f1f)
 - [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
 - [Go言語で日付処理](https://mattn.kaoriya.net/software/lang/go/20130620173712.htm)
