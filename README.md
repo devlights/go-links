@@ -49,9 +49,12 @@
 - [go doc の使い方・コメントを書いて、ちゃんと読む](https://qiita.com/ayasuda/items/53933c83d0fb7152c7e9)
 - [チョットできるGoプログラマーになるための詳解GoDoc](https://qiita.com/shibukawa/items/8c70fdd1972fad76a5ce)
 - [Why you should use go programming?](https://medium.com/@solaceinfotechh/why-you-should-use-go-programming-f6de093be3f3)
+- [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
 
 ## github
 
+- [hugo](https://github.com/gohugoio/hugo)
+  - 静的サイトジェネレータ。世界最速とのこと。
 - [litter](https://github.com/sanity-io/litter)
   - データを見やすい形で出力してくれるライブラリ
 - [watermill](https://github.com/ThreeDotsLabs/watermill)
@@ -147,6 +150,7 @@
 
 ## many_golang_articles
 
+- [clean-go-article](https://github.com/Pungyeon/clean-go-article)
 - [Go言語の勉強に役立つリンク集](https://qiita.com/nemui_/items/35064455964241b6307d)
 - [Network Programming with Go by Jan Newmarch](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
@@ -172,6 +176,8 @@
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
 - [Phil Pearl@medium](https://medium.com/@philpearl)
+- [Kassim Damilola@medium](https://medium.com/@kdnotes)
+- [Vladimir Vivien@medium](https://medium.com/@vladimirvivien)
 - [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
   - 有料電子書籍
 - [golangConcepts](https://github.com/premaseem/golangConcepts)
@@ -187,6 +193,15 @@
 
 ## golang
 
+- [loggingについて話そう](https://qiita.com/methane/items/cedbf546ae2db8a63c3d)
+- [Slice Tricks in Go](https://medium.com/@rocketlaunchr.cloud/slice-tricks-in-go-1edc21ae9109)
+- [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
+- [Go 言語の環境変数管理](https://text.baldanders.info/golang/go-env/)
+- [Go: How Does the Garbage Collector Mark the Memory?](https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-memory-72cfc12c6976)
+- [【Go】コーディングTips](https://qiita.com/kskumgk63/items/2b63f63ebd69b7b91c08)
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+- [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
+- [GolangのSliceを関数の引数に渡した時の挙動](https://christina04.hatenablog.com/entry/2017/09/26/190000)
 - [Using Golang as a scripting language](https://dev.to/eminetto/using-golang-as-a-scripting-language-jl2)
 - [Program Structure and Composability](https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html)
 - [Context Package Semantics In Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
