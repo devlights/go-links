@@ -9,9 +9,8 @@
 - [TUI](#tui)
 - [情報が沢山あるサイト](#many_golang_articles)
 - [golang](#golang)
-- [testing](#testing)
+- [excel](#excel)
 - [gcp](#gcp)
-- [Goならわかるシステムプログラミング](#go_system_programming)
 
 ---
 
@@ -53,6 +52,10 @@
 
 ## github
 
+- [bitvector](https://github.com/teivah/bitvector)
+  - ビット演算用ライブラリ
+- [goexec](https://github.com/shurcooL/goexec)
+  - ```python -c``` のようにワンライナーを実行できるようにしてくれるライブラリ
 - [hugo](https://github.com/gohugoio/hugo)
   - 静的サイトジェネレータ。世界最速とのこと。
 - [litter](https://github.com/sanity-io/litter)
@@ -191,9 +194,79 @@
 - [Practical Go](https://dave.cheney.net/practical-go)
 - [A Journey With Go](https://medium.com/a-journey-with-go)
 - [ゼロからはじめるGo言語](https://news.mynavi.jp/series/gogogo)
+- [Go Patterns](http://tmrts.com/go-patterns/)
+- [run.go](https://medium.com/rungo)
+- [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 ## golang
 
+### lang-spec
+
+### concurrent
+
+### error-handling
+
+- [Defer, Panic, and Recover](https://blog.golang.org/defer-panic-and-recover)
+- [Error handling and Go](https://blog.golang.org/error-handling-and-go)
+- [Errors are values](https://blog.golang.org/errors-are-values)
+- [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
+- [Golang: How to handle Errors in v1.13](https://medium.com/@felipedutratine/golang-how-to-handle-errors-in-v1-13-fda7f035d027)
+- [Go1.13以後のエラーハンドリングについて語ろう](https://speakerdeck.com/ciarana/lets-talk-about-error-handling-after-go-1-13)
+- [Panicking the right way in Go](https://blog.trailofbits.com/2019/06/26/panicking-the-right-way-in-go/)
+- [Error Handing with Go-Lang](https://medium.com/@kdnotes/error-handing-with-go-lang-58f2dc883684)
+- [Go言語 runtime.Callerを使ってメッセージやerrorにソースファイル名、行番号を含める](https://qiita.com/h6591/items/468be2f4524ccc888795)
+- [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
+- [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
+
+### testing
+
+- [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
+- [Goのtestを理解する in 2019](https://budougumi0617.github.io/2019/10/30/go-testing2019/)
+- [Goでシンプルに単体テストを書く](https://qiita.com/hz1_d/items/bfbcb508adbf8a99ad58)
+- [テストを実行する（go testの利用）](https://www.yoheim.net/blog.php?q=20170903)
+- [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
+- [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
+- [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
+- [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
+
+### wasm
+
+- [(Tiny)Go to WebAssembly](https://dev.to/sendilkumarn/tiny-go-to-webassembly-5168)
+- [Go × WebAssemblyで電卓のWebアプリを作ってみた](https://buildersbox.corp-sansan.com/entry/2019/02/14/113000)
+- [GoでChrome拡張を作った話](https://qiita.com/ramenjuniti/items/20a42be5f157e5851f12)
+
+### system_programming
+
+- [Goで覗くシステムプログラミングの世界](https://ascii.jp/elem/000/001/234/1234843/)
+- [低レベルアクセスへの入り口（1）：io.Writer](https://ascii.jp/elem/000/001/243/1243667/)
+- [低レベルアクセスへの入り口（2）：io.Reader前編](https://ascii.jp/elem/000/001/252/1252961/)
+- [低レベルアクセスへの入り口（3）：io.Reader後編](https://ascii.jp/elem/000/001/260/1260449/)
+- [Goから見たシステムコール](https://ascii.jp/elem/000/001/267/1267477/)
+- [GoでたたくTCPソケット（前編）](https://ascii.jp/elem/000/001/276/1276572/)
+- [GoでたたくTCPソケット（後編）](https://ascii.jp/elem/000/001/403/1403717/)
+- [UDPソケットをGoで叩く](https://ascii.jp/elem/000/001/411/1411547/)
+- [Unixドメインソケット](https://ascii.jp/elem/000/001/415/1415088/)
+- [ファイルシステムと、その上のGo言語の関数たち（1）](https://ascii.jp/elem/000/001/423/1423022/)
+- [ファイルシステムと、その上のGo言語の関数たち（2）](https://ascii.jp/elem/000/001/430/1430904/)
+- [ファイルシステムと、その上のGo言語の関数たち（3）](https://ascii.jp/elem/000/001/440/1440099/)
+- [Go言語で知るプロセス（1）](https://ascii.jp/elem/000/001/451/1451470/)
+- [Go言語で知るプロセス（2）](https://ascii.jp/elem/000/001/459/1459279/)
+- [Go言語で知るプロセス（3）](https://ascii.jp/elem/000/001/467/1467705/)
+- [Go言語と並列処理](https://ascii.jp/elem/000/001/475/1475360/)
+- [Go言語と並列処理（2）](https://ascii.jp/elem/000/001/480/1480872/)
+- [Go言語と並列処理（3）](https://ascii.jp/elem/000/001/486/1486902/)
+- [Go言語のメモリ管理](https://ascii.jp/elem/000/001/496/1496211/)
+- [Go言語とコンテナ](https://ascii.jp/elem/000/001/502/1502967/)
+
+### misc
+
+- [40+ practical string tips [cheat sheet]](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
+- [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
+- [ビルドする際にバージョン情報を埋め込む](https://qiita.com/harukasan/items/37698ec799678c12e71d)
+- [Goを学ぶときにつまずきやすいポイントFAQ](https://future-architect.github.io/articles/20190713/)
+- [Learning Golang — from zero to hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
+- [Goで固定長フォーマットを扱う](https://qiita.com/Hiraku/items/d1f80bdd49efba301c54)
+- [Why Golang is Better Than Other Programming Languages?](https://www.consagous.com/blog/why-golang-is-better-than-other-programming-languages/)
 - [10 things I like about Go](https://medium.com/@meeusdylan/go-10-reasons-i-enjoy-go-ef3c3352174)
 - [Array and Slices In GO](https://medium.com/@rahulrd005/introduction-to-array-and-slices-in-go-14b7d08a8f1f)
 - [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
@@ -211,12 +284,10 @@
 - [Program Structure and Composability](https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html)
 - [Context Package Semantics In Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
 - [Instrumenting Go applications](https://banzaicloud.com/blog/instrumenting-go-applications/)
-- [Golang: How to handle Errors in v1.13](https://medium.com/@felipedutratine/golang-how-to-handle-errors-in-v1-13-fda7f035d027)
 - [Breadth-first search using Go standard library](https://cybernetist.com/2019/03/09/breadth-first-search-using-go-standard-library/)
 - [Go Docker](https://medium.com/monstar-lab-bangladesh-engineering/go-docker-2843a9339913)
 - [エラーの種類によって処理を分けるBESTな方法](https://qiita.com/yoshinori_hisakawa/items/15bf0307245744deb4fc)
 - [Goのtimeパッケージチートシート](https://qiita.com/wMETAw/items/2c3120d1338c646ecfba)
-- [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 - [Golang syntax cheat sheet](https://medium.com/@phuctm97/golang-syntax-cheat-sheet-424a1ec6ae30)
 - [Using io.Reader/io.Writer in Go to stream data](https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg)
 - [Introducing Ristretto: A High-Performance Go Cache](https://blog.dgraph.io/post/introducing-ristretto-high-perf-go-cache/)
@@ -251,7 +322,6 @@
 - [Singleton vs Multiton](https://medium.com/@hafizputraludyanto/singleton-vs-multiton-golang-1fed3e984c36)
 - [Ultimate Golang String Formatting Cheat Sheet](https://medium.com/@arindamroy/ultimate-golang-string-formatting-cheat-sheet-234ec92c97da)
 - [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
-- [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
 - [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
 - [Go の channel に出てくる矢印の意味](https://qiita.com/TsuyoshiUshio@github/items/d94a3d0f934bde6d6aed)
 - [Notes on TCP keepalive in Go](https://thenotexpert.com/golang-tcp-keepalive/)
@@ -345,16 +415,13 @@
 - [Non-Blocking I/O, I/O Multiplexing, Asynchronous I/Oの区別](https://christina04.hatenablog.com/entry/2017/07/05/005944)
 - [イベントループなしでのハイパフォーマンス – C10K問題へのGoの回答](https://postd.cc/performance-without-the-event-loop/)
 
-## testing
+## excel
 
-- [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
-- [Goのtestを理解する in 2019](https://budougumi0617.github.io/2019/10/30/go-testing2019/)
-- [Goでシンプルに単体テストを書く](https://qiita.com/hz1_d/items/bfbcb508adbf8a99ad58)
-- [テストを実行する（go testの利用）](https://www.yoheim.net/blog.php?q=20170903)
-- [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
-- [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
-- [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
-- [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
+- [Go言語でExcelファイルを処理するのが超簡単だった](http://pineplanter.moo.jp/non-it-salaryman/2017/06/18/go-read-excel/)
+- [Go言語でExcel処理パートⅡ シート内の値をすべて表示する](http://pineplanter.moo.jp/non-it-salaryman/2017/06/20/go-read-excel2/)
+- [Go言語でExcel処理パートⅢ ファイルを新規作成し書き込む](http://pineplanter.moo.jp/non-it-salaryman/2017/06/21/go-read-excel3/)
+- [Go言語でExcelファイルから特定データを抽出するアプリ作ったよ](http://pineplanter.moo.jp/non-it-salaryman/2017/06/23/go-extract-excel/)
+- [Using Golang to Read and Create Excel files](https://medium.com/cloud-native-the-gathering/using-golang-to-create-and-read-excel-files-7e0c10a31583)
 
 ## gcp
 
@@ -392,25 +459,3 @@
 - [【GCP入門編・第30回】 Cloud CDNで静的ファイルの配布を行う](https://www.topgate.co.jp/gcp30-cloud-cdn)
 - [【GCP入門編・第31回】 GCP のネットワークにサブネットを追加する](https://www.topgate.co.jp/gcp31-gcp-subnet)
 
-## go_system_programming
-
-- [Goで覗くシステムプログラミングの世界](https://ascii.jp/elem/000/001/234/1234843/)
-- [低レベルアクセスへの入り口（1）：io.Writer](https://ascii.jp/elem/000/001/243/1243667/)
-- [低レベルアクセスへの入り口（2）：io.Reader前編](https://ascii.jp/elem/000/001/252/1252961/)
-- [低レベルアクセスへの入り口（3）：io.Reader後編](https://ascii.jp/elem/000/001/260/1260449/)
-- [Goから見たシステムコール](https://ascii.jp/elem/000/001/267/1267477/)
-- [GoでたたくTCPソケット（前編）](https://ascii.jp/elem/000/001/276/1276572/)
-- [GoでたたくTCPソケット（後編）](https://ascii.jp/elem/000/001/403/1403717/)
-- [UDPソケットをGoで叩く](https://ascii.jp/elem/000/001/411/1411547/)
-- [Unixドメインソケット](https://ascii.jp/elem/000/001/415/1415088/)
-- [ファイルシステムと、その上のGo言語の関数たち（1）](https://ascii.jp/elem/000/001/423/1423022/)
-- [ファイルシステムと、その上のGo言語の関数たち（2）](https://ascii.jp/elem/000/001/430/1430904/)
-- [ファイルシステムと、その上のGo言語の関数たち（3）](https://ascii.jp/elem/000/001/440/1440099/)
-- [Go言語で知るプロセス（1）](https://ascii.jp/elem/000/001/451/1451470/)
-- [Go言語で知るプロセス（2）](https://ascii.jp/elem/000/001/459/1459279/)
-- [Go言語で知るプロセス（3）](https://ascii.jp/elem/000/001/467/1467705/)
-- [Go言語と並列処理](https://ascii.jp/elem/000/001/475/1475360/)
-- [Go言語と並列処理（2）](https://ascii.jp/elem/000/001/480/1480872/)
-- [Go言語と並列処理（3）](https://ascii.jp/elem/000/001/486/1486902/)
-- [Go言語のメモリ管理](https://ascii.jp/elem/000/001/496/1496211/)
-- [Go言語とコンテナ](https://ascii.jp/elem/000/001/502/1502967/)
