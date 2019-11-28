@@ -10,6 +10,7 @@
 - [情報が沢山あるサイト](#many_golang_articles)
 - [golang](#golang)
 - [excel](#excel)
+- [grpc](#grpc)
 - [gcp](#gcp)
 
 ---
@@ -49,9 +50,11 @@
 - [Why you should use go programming?](https://medium.com/@solaceinfotechh/why-you-should-use-go-programming-f6de093be3f3)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
+- [Goにおける最適なディレクトリ構成はもはやこれだと思う](https://qiita.com/rema424/items/9ffbdf584b705cae6a19)
 
 ## github
 
+- [screenshot](https://github.com/kbinani/screenshot)
 - [bitvector](https://github.com/teivah/bitvector)
   - ビット演算用ライブラリ
 - [goexec](https://github.com/shurcooL/goexec)
@@ -197,12 +200,15 @@
 - [Go Patterns](http://tmrts.com/go-patterns/)
 - [run.go](https://medium.com/rungo)
 - [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md)
+- [株式会社ライトコート(IT技術)](https://rightcode.co.jp/blog/information-technology)
 
 ## golang
 
 ### lang-spec
 
 ### concurrent
+
+- [Go言語のゴルーチンとWaitGroupを使った並行処理](https://qiita.com/moriyatto/items/e4efcae76fc5cb845a87)
 
 ### error-handling
 
@@ -260,6 +266,7 @@
 
 ### misc
 
+- [Abstraction Antipatterns in Go](https://medium.com/weave-lab/abstraction-antipatterns-in-go-a85d6703c0e3)
 - [40+ practical string tips [cheat sheet]](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 - [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 - [ビルドする際にバージョン情報を埋め込む](https://qiita.com/harukasan/items/37698ec799678c12e71d)
@@ -304,14 +311,13 @@
 - [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/)
 - [GO MEMORY MANAGEMENT](https://povilasv.me/go-memory-management/)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-- [Go + gRPCによるマイクロサービス構築](https://user-first.ikyu.co.jp/entry/2019/06/17/100000)
+
 - [goroutineとチャネルの動きを図を使って理解する(和訳)](https://qiita.com/hirano00o/items/828393342efcd80aa2e6)
   - [A visual introduction to golang concurrency and goroutines](https://stackedco.de/a-visual-introduction-to-golang-goroutines)
 - [リトライ処理の効率的アプローチ「Exponential Backoff」の概要とGoによる実装](https://qiita.com/po3rin/items/c80dea298f16a2625dbe)
 - [Goといえばチャネルでしょ！！！　第3弾](https://qiita.com/besood/items/62838cc3f0bdadbf3f29)
 - [Golangでゴルーチンを触ってみる　第二弾](https://qiita.com/besood/items/fe48f295c2e1816f5a14)
 - [俺もgolangでゴルーチン触ってみたい！！](https://qiita.com/besood/items/450c39404ddec4b68936)
-- [いまさらだけどgRPCに入門したので分かりやすくまとめてみた](https://qiita.com/gold-kou/items/a1cc2be6045723e242eb)
 - [急いで学ぶGo lang#7 range・Array・slice・map](https://dev.classmethod.jp/go/golang-7/)
 - [急いで学ぶGo lang#6 インターフェイス](https://dev.classmethod.jp/go/golang-6/)
 - [急いで学ぶGo lang#5 構造体](https://dev.classmethod.jp/server-side/language/golang-5/)
@@ -422,6 +428,12 @@
 - [Go言語でExcel処理パートⅢ ファイルを新規作成し書き込む](http://pineplanter.moo.jp/non-it-salaryman/2017/06/21/go-read-excel3/)
 - [Go言語でExcelファイルから特定データを抽出するアプリ作ったよ](http://pineplanter.moo.jp/non-it-salaryman/2017/06/23/go-extract-excel/)
 - [Using Golang to Read and Create Excel files](https://medium.com/cloud-native-the-gathering/using-golang-to-create-and-read-excel-files-7e0c10a31583)
+
+## grpc
+
+- [Guaranteed Delivery with gRPC Streams](https://blog.maddevs.io/guaranteed-delivery-with-grpc-streams-dc847ead7e6e)
+- [Go + gRPCによるマイクロサービス構築](https://user-first.ikyu.co.jp/entry/2019/06/17/100000)
+- [いまさらだけどgRPCに入門したので分かりやすくまとめてみた](https://qiita.com/gold-kou/items/a1cc2be6045723e242eb)
 
 ## gcp
 
