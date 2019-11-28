@@ -55,6 +55,8 @@
 ## github
 
 - [screenshot](https://github.com/kbinani/screenshot)
+- [gotop](https://github.com/cjbassi/gotop)
+  - Goで作成された```top```をリッチにした感じのCUIアプリケーション
 - [bitvector](https://github.com/teivah/bitvector)
   - ビット演算用ライブラリ
 - [goexec](https://github.com/shurcooL/goexec)
@@ -203,6 +205,11 @@
 - [株式会社ライトコート(IT技術)](https://rightcode.co.jp/blog/information-technology)
 
 ## golang
+
+### file-io
+
+- [Go言語での文字列操作に関して覚えておきたいこと](https://qiita.com/masalennon/items/a084b1fd9f528d6fe5f2)
+- [Golang による文字エンコーディング変換](https://qiita.com/spiegel-im-spiegel/items/2e475b48226330aa5570)
 
 ### lang-spec
 
