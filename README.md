@@ -168,7 +168,7 @@
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Attempting to Learn Go](https://github.com/shindakun/atlg)
-- [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro?ref=cybrhome)
+- [AN INTRODUCTION TO PROGRAMMING IN GO](http://www.golang-book.com/books/intro)
 - [Algorithms to Go](https://yourbasic.org/)
 - [golangprograms](http://www.golangprograms.com/)
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go)
