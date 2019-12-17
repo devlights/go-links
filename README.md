@@ -206,6 +206,11 @@
 
 ## golang
 
+### image
+
+- [Go言語の標準パッケージだけで画像処理をする その１ （入出力）](https://qiita.com/ikeponsu/items/808a83d2f3bcf3ad95f3)
+- [Go言語の標準パッケージだけで画像処理をする その２ （回転、反転）](https://qiita.com/ikeponsu/items/0beb5387882eb1f9d525)
+
 ### file-io
 
 - [Go言語での文字列操作に関して覚えておきたいこと](https://qiita.com/masalennon/items/a084b1fd9f528d6fe5f2)
@@ -215,6 +220,15 @@
 
 ### concurrent
 
+- [Share Memory By Communicating](https://blog.golang.org/share-memory-by-communicating)
+  - 公式ブログ記事
+  - ```Do not communicate by sharing memory; instead, share memory by communicating.```
+- [package errgroup](https://godoc.org/golang.org/x/sync/errgroup)
+  - 公式が出している追加パッケージの一つ。 sync.WaitGroup の エラー制御 考慮版みたいな感じ
+- [Go 言語における並行処理の構築部材](https://motemen.hatenablog.com/entry/2016/05/go-concurrent-building-blocks)
+- [Go の並行処理](http://jxck.hatenablog.com/entry/20130414/1365960707)
+- [複数のGoroutineをWaitGroup（ErrGroup）で制御する](https://blog.toshimaru.net/goroutine-with-waitgroup/)
+- [sync.ErrGroupで複数のgoroutineを制御する](https://deeeet.com/writing/2016/10/12/errgroup/)
 - [Go言語のゴルーチンとWaitGroupを使った並行処理](https://qiita.com/moriyatto/items/e4efcae76fc5cb845a87)
 
 ### error-handling
@@ -273,6 +287,8 @@
 
 ### misc
 
+- [コマンドプロンプトの文字幅をキャリブレーションして、崩れない TUI 画面を作ろう](https://qiita.com/zetamatta/items/f823aef67a62de37c870)
+- [golang で手軽にコマンド作成](https://qiita.com/Haruki-Miyagi/items/6fe9e6ce01e310da1cf2)
 - [Abstraction Antipatterns in Go](https://medium.com/weave-lab/abstraction-antipatterns-in-go-a85d6703c0e3)
 - [40+ practical string tips [cheat sheet]](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 - [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
