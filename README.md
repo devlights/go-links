@@ -54,6 +54,10 @@
 
 ## github
 
+- [redigo](https://github.com/gomodule/redigo)
+  - redis 用ライブラリ
+- [assets-life](https://github.com/shogo82148/assets-life)
+  - 静的ファイル埋め込み用ライブラリ
 - [go-sqlite3](https://github.com/mattn/go-sqlite3)
   - sqlite3 用ライブラリ
 - [screenshot](https://github.com/kbinani/screenshot)
@@ -210,10 +214,19 @@
 
 ### lang-spec
 
+- [Go言語のGo紹介](https://qiita.com/matsutake/items/494275320c78986d1363)
 - [Go の命名規則](https://micnncim.com/post/2019/12/11/go-naming-conventions/)
+- [Goのプロジェクトレイアウト](https://qiita.com/ohno2019/items/241541d0475338e26f6e)
+- [Ultimate Setup for Your Next Golang Project](https://martinheinz.dev/blog/5)
 - [図解 Go Slice Tricks](https://i-beam.org/2019/12/09/go-slice-tricks/)
+- [Go言語のスライスで勘違いしやすいこところ](https://qiita.com/Kashiwara/items/e621a4ad8ec00974f025)
+- [Go言語で構造体をコピーするときに気をつけること](https://qiita.com/kz23szk/items/8d60a4716f7e2de2e946)
 - [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
 - [Go言語でメモリ上の大きさや配置を調べる](https://ota42y.com/blog/2015/05/06/go-struct-offset/)
+- [Go言語のFunctional Option Pattern](https://qiita.com/weloan/items/56f1c7792088b5ede136)
+  - [Self-referential functions and the design of options](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
+- [SOLID principle in GO](https://medium.com/@s8sg/solid-principle-in-go-e1a624290346)
+
 
 ### concurrent
 
@@ -245,6 +258,11 @@
 - [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
 - [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 
+### logging
+
+- [軽量かつ高速なロガーzapを導入する](https://qiita.com/RyoMa_0923/items/a765d2687531c6d322ec)
+- [運用を意識したGo言語でのエラーハンドリング/ロギング](https://qiita.com/nayuneko/items/dea02377b797c2a52053)
+
 ### image
 
 - [Go言語の標準パッケージだけで画像処理をする その１ （入出力）](https://qiita.com/ikeponsu/items/808a83d2f3bcf3ad95f3)
@@ -252,6 +270,7 @@
 
 ### file-io
 
+- [Using io.Reader/io.Writer in Go to stream data](https://dev.to/flowup/using-io-reader-io-writer-in-go-to-stream-data-3i7b)
 - [Go言語での文字列操作に関して覚えておきたいこと](https://qiita.com/masalennon/items/a084b1fd9f528d6fe5f2)
 - [Golang による文字エンコーディング変換](https://qiita.com/spiegel-im-spiegel/items/2e475b48226330aa5570)
 
@@ -301,6 +320,7 @@
 
 ### misc
 
+- [Go のバイナリに静的ファイルを埋め込む assets-life を使ってみた](https://qiita.com/akif999/items/c892448b56615503e100)
 - [コマンドプロンプトの文字幅をキャリブレーションして、崩れない TUI 画面を作ろう](https://qiita.com/zetamatta/items/f823aef67a62de37c870)
 - [golang で手軽にコマンド作成](https://qiita.com/Haruki-Miyagi/items/6fe9e6ce01e310da1cf2)
 - [Abstraction Antipatterns in Go](https://medium.com/weave-lab/abstraction-antipatterns-in-go-a85d6703c0e3)
@@ -468,6 +488,9 @@
 
 ## grpc
 
+- [Protocol Buffers / Go Generated Code（和訳）](https://qiita.com/takegamm/items/3b7a2c6e9c56ab58c909)
+- [Golang gRPC — Part 2 — Simple chat application with gRPC](https://medium.com/@viethapascal/golang-grpc-part-2-simple-chat-application-with-grpc-ef6a6c0eea32)
+- [Golang gRPC — Part 1 — gRPC and protobuf syntax](https://medium.com/@viethapascal/golang-grpc-part-1-grpc-and-protobuf-syntax-d7b03cc24815)
 - [Guaranteed Delivery with gRPC Streams](https://blog.maddevs.io/guaranteed-delivery-with-grpc-streams-dc847ead7e6e)
 - [Go + gRPCによるマイクロサービス構築](https://user-first.ikyu.co.jp/entry/2019/06/17/100000)
 - [いまさらだけどgRPCに入門したので分かりやすくまとめてみた](https://qiita.com/gold-kou/items/a1cc2be6045723e242eb)
