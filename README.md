@@ -54,6 +54,8 @@
 
 ## github
 
+- [go-sqlite3](https://github.com/mattn/go-sqlite3)
+  - sqlite3 用ライブラリ
 - [screenshot](https://github.com/kbinani/screenshot)
 - [gotop](https://github.com/cjbassi/gotop)
   - Goで作成された```top```をリッチにした感じのCUIアプリケーション
@@ -206,17 +208,12 @@
 
 ## golang
 
-### image
-
-- [Go言語の標準パッケージだけで画像処理をする その１ （入出力）](https://qiita.com/ikeponsu/items/808a83d2f3bcf3ad95f3)
-- [Go言語の標準パッケージだけで画像処理をする その２ （回転、反転）](https://qiita.com/ikeponsu/items/0beb5387882eb1f9d525)
-
-### file-io
-
-- [Go言語での文字列操作に関して覚えておきたいこと](https://qiita.com/masalennon/items/a084b1fd9f528d6fe5f2)
-- [Golang による文字エンコーディング変換](https://qiita.com/spiegel-im-spiegel/items/2e475b48226330aa5570)
-
 ### lang-spec
+
+- [Go の命名規則](https://micnncim.com/post/2019/12/11/go-naming-conventions/)
+- [図解 Go Slice Tricks](https://i-beam.org/2019/12/09/go-slice-tricks/)
+- [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
+- [Go言語でメモリ上の大きさや配置を調べる](https://ota42y.com/blog/2015/05/06/go-struct-offset/)
 
 ### concurrent
 
@@ -230,6 +227,7 @@
 - [複数のGoroutineをWaitGroup（ErrGroup）で制御する](https://blog.toshimaru.net/goroutine-with-waitgroup/)
 - [sync.ErrGroupで複数のgoroutineを制御する](https://deeeet.com/writing/2016/10/12/errgroup/)
 - [Go言語のゴルーチンとWaitGroupを使った並行処理](https://qiita.com/moriyatto/items/e4efcae76fc5cb845a87)
+- [Curious Channels](https://dave.cheney.net/2013/04/30/curious-channels)
 
 ### error-handling
 
@@ -239,22 +237,38 @@
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 - [Golang: How to handle Errors in v1.13](https://medium.com/@felipedutratine/golang-how-to-handle-errors-in-v1-13-fda7f035d027)
 - [Go1.13以後のエラーハンドリングについて語ろう](https://speakerdeck.com/ciarana/lets-talk-about-error-handling-after-go-1-13)
+- [Go 1.13時代のエラー実装者のお作法](https://qiita.com/shibukawa/items/e633e426a6e67ea2e830)
+- [運用を意識したGo言語でのエラーハンドリング/ロギング](https://qiita.com/nayuneko/items/dea02377b797c2a52053)
 - [Panicking the right way in Go](https://blog.trailofbits.com/2019/06/26/panicking-the-right-way-in-go/)
 - [Error Handing with Go-Lang](https://medium.com/@kdnotes/error-handing-with-go-lang-58f2dc883684)
 - [Go言語 runtime.Callerを使ってメッセージやerrorにソースファイル名、行番号を含める](https://qiita.com/h6591/items/468be2f4524ccc888795)
 - [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
 - [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 
+### image
+
+- [Go言語の標準パッケージだけで画像処理をする その１ （入出力）](https://qiita.com/ikeponsu/items/808a83d2f3bcf3ad95f3)
+- [Go言語の標準パッケージだけで画像処理をする その２ （回転、反転）](https://qiita.com/ikeponsu/items/0beb5387882eb1f9d525)
+
+### file-io
+
+- [Go言語での文字列操作に関して覚えておきたいこと](https://qiita.com/masalennon/items/a084b1fd9f528d6fe5f2)
+- [Golang による文字エンコーディング変換](https://qiita.com/spiegel-im-spiegel/items/2e475b48226330aa5570)
+
 ### testing
 
+- [Goのtestingパッケージの基本を理解する](https://qiita.com/taisa831/items/85fea8d970bcadd796b9)
 - [Goのtestを理解する in 2018](https://budougumi0617.github.io/2018/08/19/go-testing2018/)
 - [Goのtestを理解する in 2019](https://budougumi0617.github.io/2019/10/30/go-testing2019/)
 - [Goでシンプルに単体テストを書く](https://qiita.com/hz1_d/items/bfbcb508adbf8a99ad58)
 - [テストを実行する（go testの利用）](https://www.yoheim.net/blog.php?q=20170903)
+- [Testable Examples in Go](https://blog.golang.org/examples)
+- [Using Subtests and Sub-benchmarks](https://blog.golang.org/subtests)
 - [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
 - [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
 - [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
 - [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
+- [Go言語でユニットテスト, テストしやすいコードとモックを書く](https://qiita.com/hiroyky/items/4a9be463e752d5c0c41c)
 
 ### wasm
 
