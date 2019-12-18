@@ -266,6 +266,7 @@
 ### logging
 
 - [軽量かつ高速なロガーzapを導入する](https://qiita.com/RyoMa_0923/items/a765d2687531c6d322ec)
+- [【Go×ログ】logrusの使い方を簡単に分かりやすくまとめてみた](https://qiita.com/gold-kou/items/3143ab4622acacd33f8d)
 - [運用を意識したGo言語でのエラーハンドリング/ロギング](https://qiita.com/nayuneko/items/dea02377b797c2a52053)
 
 ### image
@@ -294,6 +295,7 @@
 - [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
 - [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 - [Go言語でユニットテスト, テストしやすいコードとモックを書く](https://qiita.com/hiroyky/items/4a9be463e752d5c0c41c)
+- [How to Test Local Changes with Go Mod](https://medium.com/@teivah/how-to-test-a-local-branch-with-go-mod-54df087fc9cc)
 
 ### wasm
 
