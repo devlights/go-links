@@ -214,6 +214,7 @@
 
 ### lang-spec
 
+- [「Go言語らしさ」とは何か？　Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://employment.en-japan.com/engineerhub/entry/2018/06/19/110000)
 - [Go言語のGo紹介](https://qiita.com/matsutake/items/494275320c78986d1363)
 - [Go の命名規則](https://micnncim.com/post/2019/12/11/go-naming-conventions/)
 - [Goのプロジェクトレイアウト](https://qiita.com/ohno2019/items/241541d0475338e26f6e)
@@ -257,6 +258,7 @@
 - [Go言語 runtime.Callerを使ってメッセージやerrorにソースファイル名、行番号を含める](https://qiita.com/h6591/items/468be2f4524ccc888795)
 - [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
 - [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
+- [A Look At Go 1.13 Errors](https://medium.com/onefootball-locker-room/a-look-at-go-1-13-errors-9f6c9f6accb6)
 
 ### logging
 
