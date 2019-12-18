@@ -37,6 +37,8 @@
   - Goが生まれた背景と言語の特徴について(Rob Pike氏)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
   - [The Go Blog - Using Go Modules / Go Modulesを使う（和訳）](https://qiita.com/pokeh/items/139d0f1fe56e358ba597)
+- [awesome-go](https://github.com/avelino/awesome-go)
+  - AwesomeシリーズのGo版
 - [project-layout](https://github.com/golang-standards/project-layout)
   - Go言語のプロジェクト構成についての資料
 - [Go CodeReviewComments 日本語翻訳](https://qiita.com/knsh14/items/8b73b31822c109d4c497)
@@ -187,7 +189,6 @@
 - [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
 - [Go Tutorial](https://www.tutorialspoint.com/go)
 - [gotraining](https://github.com/ardanlabs/gotraining)
-- [awesome-go](https://github.com/avelino/awesome-go)
 - [Vincent Blanchon@medium](https://medium.com/@blanchon.vincent)
 - [Phil Pearl@medium](https://medium.com/@philpearl)
 - [Can Tepakidareekul@medium](https://medium.com/@manus.can)
@@ -226,7 +227,9 @@
 - [Go言語でメモリ上の大きさや配置を調べる](https://ota42y.com/blog/2015/05/06/go-struct-offset/)
 - [Go言語のFunctional Option Pattern](https://qiita.com/weloan/items/56f1c7792088b5ede136)
   - [Self-referential functions and the design of options](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
+- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [SOLID principle in GO](https://medium.com/@s8sg/solid-principle-in-go-e1a624290346)
+- [Best practices for a new Go developer](https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc)
 
 
 ### concurrent
@@ -285,6 +288,7 @@
 - [テストを実行する（go testの利用）](https://www.yoheim.net/blog.php?q=20170903)
 - [Testable Examples in Go](https://blog.golang.org/examples)
 - [Using Subtests and Sub-benchmarks](https://blog.golang.org/subtests)
+- [TableDrivenTests](https://github.com/golang/go/wiki/TableDrivenTests)
 - [Using Go Flags in Tests](https://blog.jbowen.dev/2019/08/using-go-flags-in-tests/)
 - [7 Testing Techniques for Your Golang Codebase](https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9)
 - [GoMock vs. Testify: Mocking frameworks for Go](https://blog.codecentric.de/2019/07/gomock-vs-testify/)
