@@ -219,6 +219,7 @@
 
 - [「Go言語らしさ」とは何か？　Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://employment.en-japan.com/engineerhub/entry/2018/06/19/110000)
 - [Go言語のGo紹介](https://qiita.com/matsutake/items/494275320c78986d1363)
+- [Go言語の思想とエウレカでの5年間の活用](https://medium.com/eureka-engineering/advent-calendar-2019-go-b1535b174d59)
 - [Go の命名規則](https://micnncim.com/post/2019/12/11/go-naming-conventions/)
 - [Goのプロジェクトレイアウト](https://qiita.com/ohno2019/items/241541d0475338e26f6e)
 - [Ultimate Setup for Your Next Golang Project](https://martinheinz.dev/blog/5)
@@ -283,6 +284,10 @@
 - [軽量かつ高速なロガーzapを導入する](https://qiita.com/RyoMa_0923/items/a765d2687531c6d322ec)
 - [【Go×ログ】logrusの使い方を簡単に分かりやすくまとめてみた](https://qiita.com/gold-kou/items/3143ab4622acacd33f8d)
 - [運用を意識したGo言語でのエラーハンドリング/ロギング](https://qiita.com/nayuneko/items/dea02377b797c2a52053)
+- [logutils](https://github.com/hashicorp/logutils)
+- [file-rotatelogs](https://github.com/lestrrat-go/file-rotatelogs)
+- [logf](https://github.com/spiegel-im-spiegel/logf)
+- [zap](https://github.com/uber-go/zap)
 
 ### image
 
