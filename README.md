@@ -233,6 +233,19 @@
 - [SOLID principle in GO](https://medium.com/@s8sg/solid-principle-in-go-e1a624290346)
 - [Best practices for a new Go developer](https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc)
 
+### mod (go modules)
+
+- [Using Go Modules](https://blog.golang.org/using-go-modules)
+- [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
+- [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
+- [Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
+- [和訳: Go += Package Versioning (Go & Versioning, Part 1)](https://qiita.com/nekketsuuu/items/60634417e6279ccfd95b)
+- [和訳: A Tour of Versioned Go (vgo) (Go & Versioning, Part 2)](https://qiita.com/nekketsuuu/items/589bc29f00b507492a96)
+- [和訳: Semantic Import Versioning (Go & Versioning, Part 3)](https://qiita.com/nekketsuuu/items/2dcad7dde29171e1fe3f)
+- [GoにおけるSemantic versioningとgo.modにある+incompatibleについて](https://qiita.com/Tommy_/items/32d2d0d9f56365ee61fc)
+- [Go Modules and Major Versions](https://codeengineered.com/blog/2019/go-mod-major-versions/)
+- [how to upgrade go mod to v2 or higher version?](https://stackoverflow.com/questions/55096443/how-to-upgrade-go-mod-to-v2-or-higher-version)
+
 
 ### concurrent
 
