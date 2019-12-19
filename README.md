@@ -166,6 +166,8 @@
 
 ## many_golang_articles
 
+- [プログラミング言語 Go](https://text.baldanders.info/golang/)
+  - 有用な情報がたくさんある
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article)
 - [Go言語の勉強に役立つリンク集](https://qiita.com/nemui_/items/35064455964241b6307d)
 - [Network Programming with Go by Jan Newmarch](http://tumregels.github.io/Network-Programming-with-Go/)
