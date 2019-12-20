@@ -56,6 +56,8 @@
 
 ## github
 
+- [clipboard](https://github.com/atotto/clipboard)
+  - クリップボード用ライブラリ
 - [redigo](https://github.com/gomodule/redigo)
   - redis 用ライブラリ
 - [assets-life](https://github.com/shogo82148/assets-life)
