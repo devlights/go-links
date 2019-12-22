@@ -56,6 +56,14 @@
 
 ## github
 
+- [wails](https://github.com/wailsapp/wails)
+  - バックエンドにGo、フロントエンドにWebを採用するGuiフレームワーク
+  - [wails.app](https://wails.app/)
+- [godotenv](https://github.com/joho/godotenv)
+  - ```.env```ファイルを扱うためのライブラリ
+- [ratelimit](https://github.com/uber-go/ratelimit)
+  - leaky-bucket rate limit algorithm
+- [go-pretty](https://github.com/jedib0t/go-pretty)
 - [urfave/cli](https://github.com/urfave/cli)
   - Goで恐らく一番有名なコマンドライン用ライブラリ
 - [mitchellh/cli](https://github.com/mitchellh/cli)
@@ -219,6 +227,8 @@
 - [run.go](https://medium.com/rungo)
 - [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [株式会社ライトコート(IT技術)](https://rightcode.co.jp/blog/information-technology)
+- [Go-SCP](https://github.com/OWASP/Go-SCP)
+  - secure coding practices guide
 
 ## golang
 
@@ -227,8 +237,10 @@
 - [「Go言語らしさ」とは何か？　Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://employment.en-japan.com/engineerhub/entry/2018/06/19/110000)
 - [Go言語のGo紹介](https://qiita.com/matsutake/items/494275320c78986d1363)
 - [Go言語さわってみた](https://ktat.hatenadiary.jp/entry/20150621/1434893179)
+- [Goを50時間勉強して分かったこと](https://qiita.com/kskinaba/items/5fc05d0233b989ae46c3)
 - [Go言語の思想とエウレカでの5年間の活用](https://medium.com/eureka-engineering/advent-calendar-2019-go-b1535b174d59)
 - [Go の命名規則](https://micnncim.com/post/2019/12/11/go-naming-conventions/)
+- [Goのコード構成についての公式ドキュメントの日本語翻訳](https://qiita.com/wildmouse/items/cbae51fb4c0211b57c63)
 - [Goのプロジェクトレイアウト](https://qiita.com/ohno2019/items/241541d0475338e26f6e)
 - [Ultimate Setup for Your Next Golang Project](https://martinheinz.dev/blog/5)
 - [図解 Go Slice Tricks](https://i-beam.org/2019/12/09/go-slice-tricks/)
@@ -262,6 +274,7 @@
 
 ### concurrent
 
+- [Go が他の多くの言語での非同期プログラミングよりも優れている理由](https://qiita.com/methane/items/5ad7c092c0d426db4ab5)
 - [Share Memory By Communicating](https://blog.golang.org/share-memory-by-communicating)
   - 公式ブログ記事
   - ```Do not communicate by sharing memory; instead, share memory by communicating.```
@@ -274,6 +287,9 @@
 - [Go言語のゴルーチンとWaitGroupを使った並行処理](https://qiita.com/moriyatto/items/e4efcae76fc5cb845a87)
 - [Curious Channels](https://dave.cheney.net/2013/04/30/curious-channels)
 - [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
+- [Go Concurrency Patterns: Context](https://blog.golang.org/context)
+- [Go1.7のcontextパッケージ](https://deeeet.com/writing/2016/07/22/context/)
+- [golangでcontextパッケージを使う](https://www.write-ahead-log.net/entry/2017/04/07/214420)
 
 ### error-handling
 
@@ -312,6 +328,12 @@
 - [Using io.Reader/io.Writer in Go to stream data](https://dev.to/flowup/using-io-reader-io-writer-in-go-to-stream-data-3i7b)
 - [Go言語での文字列操作に関して覚えておきたいこと](https://qiita.com/masalennon/items/a084b1fd9f528d6fe5f2)
 - [Golang による文字エンコーディング変換](https://qiita.com/spiegel-im-spiegel/items/2e475b48226330aa5570)
+
+### networking
+
+- [GoでTCPソケットを使ったときのメモ](https://qiita.com/t10471/items/424c16f1bd7f374f51b7)
+- [How to test TCP/UDP connections in Go - Part 1](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-1-3bga)
+- [How to test TCP/UDP connections in Go - Part 2](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-2-2960)
 
 ### testing
 
@@ -361,6 +383,9 @@
 
 ### misc
 
+- [Golang Templates Cheatsheet](https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet)
+- [How I Embedded Resources in Go](https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a)
+- [golangでDBの接続文字列にパスワードを含めない安全な方法。](https://qiita.com/_kyamasan/items/8b5673f5927dc7f741bf)
 - [Go 言語で学ぶ『暗号技術入門』Part 3 -CBC Mode-](https://skatsuta.github.io/2016/03/06/hyuki-crypt-book-go-3/)
 - [Go 言語で学ぶ『暗号技術入門』Part 2 -AES-](https://skatsuta.github.io/2016/01/19/hyuki-crypt-book-go-2/)
 - [Go 言語で学ぶ『暗号技術入門』Part 1 -DES, Triple DES-](https://skatsuta.github.io/2016/01/02/hyuki-crypt-book-go-1/)
