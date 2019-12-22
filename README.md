@@ -350,6 +350,9 @@
 
 ### misc
 
+- [Go 言語で学ぶ『暗号技術入門』Part 3 -CBC Mode-](https://skatsuta.github.io/2016/03/06/hyuki-crypt-book-go-3/)
+- [Go 言語で学ぶ『暗号技術入門』Part 2 -AES-](https://skatsuta.github.io/2016/01/19/hyuki-crypt-book-go-2/)
+- [Go 言語で学ぶ『暗号技術入門』Part 1 -DES, Triple DES-](https://skatsuta.github.io/2016/01/02/hyuki-crypt-book-go-1/)
 - [Go のバイナリに静的ファイルを埋め込む assets-life を使ってみた](https://qiita.com/akif999/items/c892448b56615503e100)
 - [コマンドプロンプトの文字幅をキャリブレーションして、崩れない TUI 画面を作ろう](https://qiita.com/zetamatta/items/f823aef67a62de37c870)
 - [golang で手軽にコマンド作成](https://qiita.com/Haruki-Miyagi/items/6fe9e6ce01e310da1cf2)
