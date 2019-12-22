@@ -56,6 +56,11 @@
 
 ## github
 
+- [urfave/cli](https://github.com/urfave/cli)
+  - Goで恐らく一番有名なコマンドライン用ライブラリ
+- [mitchellh/cli](https://github.com/mitchellh/cli)
+  - 有名なコマンドライン作成用ライブラリの一つ（この上の urfave/cli の方が有名度は高い)
+- [go-flags](https://github.com/jessevdk/go-flags)
 - [clipboard](https://github.com/atotto/clipboard)
   - クリップボード用ライブラリ
 - [redigo](https://github.com/gomodule/redigo)
@@ -221,6 +226,7 @@
 
 - [「Go言語らしさ」とは何か？　Simplicityの哲学を理解し、Go Wayに沿った開発を進めることの良さ](https://employment.en-japan.com/engineerhub/entry/2018/06/19/110000)
 - [Go言語のGo紹介](https://qiita.com/matsutake/items/494275320c78986d1363)
+- [Go言語さわってみた](https://ktat.hatenadiary.jp/entry/20150621/1434893179)
 - [Go言語の思想とエウレカでの5年間の活用](https://medium.com/eureka-engineering/advent-calendar-2019-go-b1535b174d59)
 - [Go の命名規則](https://micnncim.com/post/2019/12/11/go-naming-conventions/)
 - [Goのプロジェクトレイアウト](https://qiita.com/ohno2019/items/241541d0475338e26f6e)
@@ -228,6 +234,8 @@
 - [図解 Go Slice Tricks](https://i-beam.org/2019/12/09/go-slice-tricks/)
 - [Go言語のスライスで勘違いしやすいこところ](https://qiita.com/Kashiwara/items/e621a4ad8ec00974f025)
 - [Go言語で構造体をコピーするときに気をつけること](https://qiita.com/kz23szk/items/8d60a4716f7e2de2e946)
+- [Go言語のInterfaceの考え方、Accept interfaces,return structs](https://qiita.com/weloan/items/de3b1bcabd329ec61709)
+- [GoのInterfaceの作法 "Accept Interfaces, Return structs"](https://y-zumi.hatenablog.com/entry/2019/07/28/035632)
 - [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
 - [Go言語でメモリ上の大きさや配置を調べる](https://ota42y.com/blog/2015/05/06/go-struct-offset/)
 - [Go言語のFunctional Option Pattern](https://qiita.com/weloan/items/56f1c7792088b5ede136)
@@ -235,6 +243,8 @@
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [SOLID principle in GO](https://medium.com/@s8sg/solid-principle-in-go-e1a624290346)
 - [Best practices for a new Go developer](https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc)
+- [簡単にできる！Goで書いたCLIツールを配布する方法](https://nukosuke.hatenablog.jp/entry/dist-go-cli)
+- [Go ランタイムのデバッグをサポートする環境変数](https://qiita.com/mattn/items/e613c1f8575580f98194)
 
 ### mod (go modules)
 
@@ -263,6 +273,7 @@
 - [sync.ErrGroupで複数のgoroutineを制御する](https://deeeet.com/writing/2016/10/12/errgroup/)
 - [Go言語のゴルーチンとWaitGroupを使った並行処理](https://qiita.com/moriyatto/items/e4efcae76fc5cb845a87)
 - [Curious Channels](https://dave.cheney.net/2013/04/30/curious-channels)
+- [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 
 ### error-handling
 
