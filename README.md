@@ -257,6 +257,7 @@
 - [Best practices for a new Go developer](https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc)
 - [簡単にできる！Goで書いたCLIツールを配布する方法](https://nukosuke.hatenablog.jp/entry/dist-go-cli)
 - [Go ランタイムのデバッグをサポートする環境変数](https://qiita.com/mattn/items/e613c1f8575580f98194)
+- [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 
 ### mod (go modules)
 
