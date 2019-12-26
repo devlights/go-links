@@ -182,15 +182,18 @@
 ## many_golang_articles
 
 - [Qiita - Goタグ](https://qiita.com/tags/go)
+- [Go 言語に関するブックマーク](https://qiita.com/spiegel-im-spiegel/items/98d49ac456485b007a15)
+- [Go言語の勉強に役立つリンク集](https://qiita.com/nemui_/items/35064455964241b6307d)
 - [Go Advent Calendar 2015](https://qiita.com/advent-calendar/2015/go)
 - [Go Advent Calendar 2016](https://qiita.com/advent-calendar/2016/go)
 - [Go Advent Calendar 2017](https://qiita.com/advent-calendar/2017/go)
 - [Go Advent Calendar 2018](https://qiita.com/advent-calendar/2018/go)
 - [Go Advent Calendar 2019](https://qiita.com/advent-calendar/2019/go)
+- [逆引きGolang](https://ashitani.jp/golangtips/index.html)
+- [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [プログラミング言語 Go](https://text.baldanders.info/golang/)
   - 有用な情報がたくさんある
 - [clean-go-article](https://github.com/Pungyeon/clean-go-article)
-- [Go言語の勉強に役立つリンク集](https://qiita.com/nemui_/items/35064455964241b6307d)
 - [Network Programming with Go by Jan Newmarch](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
@@ -205,7 +208,6 @@
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go)
 - [Go Language Patterns](http://www.golangpatterns.info/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
-- [逆引きGolang](https://ashitani.jp/golangtips/index.html)
 - [Learning Go](https://www.miek.nl/go/)
 - [Go by Example](https://gobyexample.com/)
 - [Go Language Tutorials](https://www.cybrhome.com/topic/go-language-tutorials)
@@ -234,6 +236,9 @@
 - [株式会社ライトコート(IT技術)](https://rightcode.co.jp/blog/information-technology)
 - [Go-SCP](https://github.com/OWASP/Go-SCP)
   - secure coding practices guide
+- [Applied Go (Go beyond the Go tutorials)](https://appliedgo.net/)
+- [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go/)
+- [go-perfbook](https://github.com/dgryski/go-perfbook)
 
 ## golang
 
@@ -269,6 +274,7 @@
 - [Golang を使うなら Makefile を恐れるな](https://frasco.io/golang-dont-afraid-of-makefiles-785f3ec7eb32)
 - [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
 - [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 
 ### mod (go modules)
 
@@ -290,6 +296,10 @@
 - [Share Memory By Communicating](https://blog.golang.org/share-memory-by-communicating)
   - 公式ブログ記事
   - ```Do not communicate by sharing memory; instead, share memory by communicating.```
+- [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
+  - 公式ブログ記事
+  - [(翻訳)Goでのパイプラインとキャンセル](https://qiita.com/sudix/items/f95ef0e5bbd0cd3d4378)
+  - [Go Concurrency Patterns: Pipelines and cancellation を読んだ時のメモ](https://qiita.com/taizo/items/de820bf0e35abad95007)
 - [package errgroup](https://godoc.org/golang.org/x/sync/errgroup)
   - 公式が出している追加パッケージの一つ。 sync.WaitGroup の エラー制御 考慮版みたいな感じ
 - [Go 言語における並行処理の構築部材](https://motemen.hatenablog.com/entry/2016/05/go-concurrent-building-blocks)
@@ -302,6 +312,7 @@
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 - [Go1.7のcontextパッケージ](https://deeeet.com/writing/2016/07/22/context/)
 - [golangでcontextパッケージを使う](https://www.write-ahead-log.net/entry/2017/04/07/214420)
+- [graceful shutdownは難しい](https://qiita.com/kishibashi3/items/d912d570e427015a5b58)
 
 ### error-handling
 
@@ -343,7 +354,11 @@
 
 ### networking
 
+- [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go/)
 - [GoでTCPソケットを使ったときのメモ](https://qiita.com/t10471/items/424c16f1bd7f374f51b7)
+- [Using Network Sockets With The Go Programming Language](https://www.thepolyglotdeveloper.com/2017/05/network-sockets-with-the-go-programming-language/)
+- [Golang for Network Ops](http://networkstatic.net/golang-network-ops/)
+- [How to Use Websockets in Golang : Best Tools and Step-by-Step Guide](https://yalantis.com/blog/how-to-build-websockets-in-go/)
 - [How to test TCP/UDP connections in Go - Part 1](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-1-3bga)
 - [How to test TCP/UDP connections in Go - Part 2](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-2-2960)
 
