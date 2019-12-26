@@ -56,6 +56,14 @@
 
 ## github
 
+- [holiday_jp-go](https://github.com/holiday-jp/holiday_jp-go)
+  - 休日判定ライブラリ
+- [go-pairplot](https://github.com/mattn/go-pairplot)
+  - plot ライブラリ
+- [qframe](https://github.com/tobgu/qframe)
+  - データフレームライブラリ
+- [gota](https://github.com/go-gota/gota)
+  - データフレームライブラリ
 - [wails](https://github.com/wailsapp/wails)
   - バックエンドにGo、フロントエンドにWebを採用するGuiフレームワーク
   - [wails.app](https://wails.app/)
@@ -270,6 +278,8 @@
 - [Go言語開発を便利にするMakefileの書き方](https://qiita.com/yoskeoka/items/317a3afab370155b3ae8)
 - [Golang - Makefileの書き方](https://qiita.com/so_heee_/items/95c3c95da2104d895205)
 - [いまさら人に聞けないmake入門](http://system.blog.uuum.jp/entry/make)
+- [make (基本編)](http://nenya.cis.ibaraki.ac.jp/TIPS/makefile1.html)
+- [make (C言語編)](http://nenya.cis.ibaraki.ac.jp/TIPS/makefile2.html)
 - [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [Golang を使うなら Makefile を恐れるな](https://frasco.io/golang-dont-afraid-of-makefiles-785f3ec7eb32)
 - [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
@@ -410,6 +420,8 @@
 
 ### misc
 
+- [Go言語で扱えるデータフレーム厳選4つ](https://qiita.com/mattn/items/71027a6f8fc720eead6e)
+- [Goでもpandasっぽいことできる！](https://qiita.com/thimi0412/items/05cff32279973b0d5599)
 - [Golang Templates Cheatsheet](https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet)
 - [How I Embedded Resources in Go](https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a)
 - [golangでDBの接続文字列にパスワードを含めない安全な方法。](https://qiita.com/_kyamasan/items/8b5673f5927dc7f741bf)
