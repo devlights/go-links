@@ -303,6 +303,16 @@
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [GoとRustを比較！始めるならどっち？](https://media.itkaikei.com/2019/01/25/go-vs-rust/)
 - [Go vs Rust? Choose Go.](https://endler.dev/2017/go-vs-rust/)
+- [急いで学ぶGo lang#7 range・Array・slice・map](https://dev.classmethod.jp/go/golang-7/)
+- [急いで学ぶGo lang#6 インターフェイス](https://dev.classmethod.jp/go/golang-6/)
+- [急いで学ぶGo lang#5 構造体](https://dev.classmethod.jp/server-side/language/golang-5/)
+- [急いで学ぶGo lang#4 関数・ポインタ・制御構文](https://dev.classmethod.jp/server-side/language/golang-4/)
+- [急いで学ぶGo lang#3 まずは基本構文](https://dev.classmethod.jp/server-side/language/golang-3/)
+- [急いで学ぶGo lang#2 IntelliJ IDEAでGo開発](https://dev.classmethod.jp/server-side/language/golang-2/)
+- [急いで学ぶGo lang#1 概要とセットアップ](https://dev.classmethod.jp/server-side/language/golang-1/)
+- [眺めて覚えるGo言語 その8 PythonからGO言語を呼ぶ1(引数文字列)](https://qiita.com/hiratarich/items/e82bf9bf04d7f6ba7f18)
+- [眺めて覚えるGo言語 その8 PythonからGO言語を呼ぶ](https://qiita.com/hiratarich/items/edf6fe7a24d61b9bdbc1)
+- [眺めて覚えるGo言語 その7 GO言語の中にC言語](https://qiita.com/hiratarich/items/f5eeb264093a08176a84)
 - [眺めて覚えるGo言語 その6 MISC](https://qiita.com/hiratarich/items/a232ae926491407ab6ea)
 - [眺めて覚えるGo言語 その6 可変引数](https://qiita.com/hiratarich/items/7875211628589d517710)
 - [眺めて覚えるGo言語 その5 TableView&Button](https://qiita.com/hiratarich/items/fe49f2ac79d8abf8758a)
@@ -313,6 +323,8 @@
 - [Go言語を真面目に勉強する〜1.Goについて知っておく事〜](https://qiita.com/bluemon0919/items/dabda22b50df44999790)
 - [Go言語を真面目に勉強する〜2.基本構文〜](https://qiita.com/bluemon0919/items/2d0e96d330e6c6d96b8d)
 - [Goを真面目に勉強する〜3.関数と型〜](https://qiita.com/bluemon0919/items/000de655f4ab27ea43ae)
+- [Pass by reference vs pass by value](https://forum.golangbridge.org/t/pass-by-reference-vs-pass-by-value/15005)
+  - めっちゃ分かりやすい図がある
 
 ### mod (go modules)
 
@@ -354,6 +366,8 @@
 - [Go1.7のcontextパッケージ](https://deeeet.com/writing/2016/07/22/context/)
 - [golangでcontextパッケージを使う](https://www.write-ahead-log.net/entry/2017/04/07/214420)
 - [graceful shutdownは難しい](https://qiita.com/kishibashi3/items/d912d570e427015a5b58)
+- [goroutineとチャネルの動きを図を使って理解する(和訳)](https://qiita.com/hirano00o/items/828393342efcd80aa2e6)
+  - [A visual introduction to golang concurrency and goroutines](https://stackedco.de/a-visual-introduction-to-golang-goroutines)
 
 ### error-handling
 
@@ -452,12 +466,14 @@
 
 ### web_programming
 
+- [Golang での Web アプリ開発で、理解を早める 5 ステップ](https://qiita.com/tsuBee5/items/5b7a0c7c41eb8da8f12a)
 - [ginを最速でマスターしよう](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)
+- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+- [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
 
 ### misc
 
 - [意外と知らないgoroutineのスケジューラーの挙動](https://qiita.com/niconegoto/items/3952d3c53d00fccc363b)
-- [Golang での Web アプリ開発で、理解を早める 5 ステップ](https://qiita.com/tsuBee5/items/5b7a0c7c41eb8da8f12a)
 - [Goでジョブキューを実装した](https://kohkimakimoto.hatenablog.com/entry/2020/01/05/150907)
 - [Go言語で扱えるデータフレーム厳選4つ](https://qiita.com/mattn/items/71027a6f8fc720eead6e)
 - [Goでもpandasっぽいことできる！](https://qiita.com/thimi0412/items/05cff32279973b0d5599)
@@ -513,20 +529,10 @@
 - [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/)
 - [GO MEMORY MANAGEMENT](https://povilasv.me/go-memory-management/)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
-
-- [goroutineとチャネルの動きを図を使って理解する(和訳)](https://qiita.com/hirano00o/items/828393342efcd80aa2e6)
-  - [A visual introduction to golang concurrency and goroutines](https://stackedco.de/a-visual-introduction-to-golang-goroutines)
 - [リトライ処理の効率的アプローチ「Exponential Backoff」の概要とGoによる実装](https://qiita.com/po3rin/items/c80dea298f16a2625dbe)
 - [Goといえばチャネルでしょ！！！　第3弾](https://qiita.com/besood/items/62838cc3f0bdadbf3f29)
 - [Golangでゴルーチンを触ってみる　第二弾](https://qiita.com/besood/items/fe48f295c2e1816f5a14)
 - [俺もgolangでゴルーチン触ってみたい！！](https://qiita.com/besood/items/450c39404ddec4b68936)
-- [急いで学ぶGo lang#7 range・Array・slice・map](https://dev.classmethod.jp/go/golang-7/)
-- [急いで学ぶGo lang#6 インターフェイス](https://dev.classmethod.jp/go/golang-6/)
-- [急いで学ぶGo lang#5 構造体](https://dev.classmethod.jp/server-side/language/golang-5/)
-- [急いで学ぶGo lang#4 関数・ポインタ・制御構文](https://dev.classmethod.jp/server-side/language/golang-4/)
-- [急いで学ぶGo lang#3 まずは基本構文](https://dev.classmethod.jp/server-side/language/golang-3/)
-- [急いで学ぶGo lang#2 IntelliJ IDEAでGo開発](https://dev.classmethod.jp/server-side/language/golang-2/)
-- [急いで学ぶGo lang#1 概要とセットアップ](https://dev.classmethod.jp/server-side/language/golang-1/)
 - [Singleton vs Multiton](https://medium.com/@hafizputraludyanto/singleton-vs-multiton-golang-1fed3e984c36)
 - [Ultimate Golang String Formatting Cheat Sheet](https://medium.com/@arindamroy/ultimate-golang-string-formatting-cheat-sheet-234ec92c97da)
 - [Understanding Real-World Concurrency Bugs in Go](https://songlh.github.io/paper/go-study.pdf)
@@ -545,8 +551,6 @@
 - [Go routine without a panic](https://medium.com/@mourya.g9/go-routine-without-a-panic-2b03e0546683)
 - [Linked Lists — in Go!](https://medium.com/@priyanshsangule/data-structures-with-go-linked-list-d1b11c1a90e0)
 - [構造体オブジェクト初期化時にフィールド名を指定することを強制する](https://budougumi0617.github.io/2019/08/17/must-use-key-in-struct-initialize/)
-- [Pass by reference vs pass by value](https://forum.golangbridge.org/t/pass-by-reference-vs-pass-by-value/15005)
-  - めっちゃ分かりやすい図がある
 - [A Goroutines Gotcha](https://medium.com/@psinghal04/a-goroutines-gotcha-7d7441c7758f)
 - [Go lang Reflection?](https://medium.com/@heshani.samarasekara/go-lang-reflection-aa6089c93cd8)
 - [【Golang】コアラのように怠惰でチンパンジーのように賢い、高速配列操作ライブラリ「Koazee」使ってみた](https://qiita.com/nqdior/items/e225eae820d6157dc05b)
@@ -574,7 +578,6 @@
 - [[Go] Stack or heap(2): slices which keep in stack have limitation of size](https://medium.com/@yulang.chu/go-stack-or-heap-2-slices-which-keep-in-stack-have-limitation-of-size-b3f3adfd6190)
 - [[Go] Stack or heap(1): does it matter?](https://medium.com/@yulang.chu/go-stack-or-heap-1-does-it-matter-67144803deb3)
 - [One Program Written in Python, Go, and Rust](http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/)
-- [(Tiny)Go to WebAssembly](https://dev.to/sendilkumarn/tiny-go-to-webassembly-5168)
 - [Routing with Channel and Goroutine (P2)](https://medium.com/@owlwalks/routing-with-channel-and-goroutine-p2-519e17ec519d)
 - [How would you organize your goroutine and channel? (P1)](https://medium.com/@owlwalks/how-would-you-organize-your-goroutine-and-channel-p1-e6e3c698f90c)
 - [Programming business processes in Golang](https://medium.com/@bykovskimichael/programming-business-processes-in-golang-f3612108d16b)
