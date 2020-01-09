@@ -39,6 +39,7 @@
   - [The Go Blog - Using Go Modules / Go Modulesを使う（和訳）](https://qiita.com/pokeh/items/139d0f1fe56e358ba597)
 - [awesome-go](https://github.com/avelino/awesome-go)
   - AwesomeシリーズのGo版
+  - [Awesome-go(golangのライブラリリスト)のスター数まとめ-全部編(2018/10/9版)](https://qiita.com/tashxii/items/52cfd2a36eadc7b225c0)
 - [project-layout](https://github.com/golang-standards/project-layout)
   - Go言語のプロジェクト構成についての資料
 - [Go CodeReviewComments 日本語翻訳](https://qiita.com/knsh14/items/8b73b31822c109d4c497)
@@ -56,6 +57,8 @@
 
 ## github
 
+- [hq](https://github.com/kohkimakimoto/hq)
+  - Goで実装されたシンプルなジョブキュー
 - [holiday_jp-go](https://github.com/holiday-jp/holiday_jp-go)
   - 休日判定ライブラリ
 - [go-pairplot](https://github.com/mattn/go-pairplot)
@@ -294,6 +297,7 @@
 - [make (C言語編)](http://nenya.cis.ibaraki.ac.jp/TIPS/makefile2.html)
 - [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [Golang を使うなら Makefile を恐れるな](https://frasco.io/golang-dont-afraid-of-makefiles-785f3ec7eb32)
+- [Makefileでrunするときに引数を渡す](https://qiita.com/tortuepin/items/9861c75853b516c8a279)
 - [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
 - [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
@@ -322,6 +326,9 @@
 - [GoにおけるSemantic versioningとgo.modにある+incompatibleについて](https://qiita.com/Tommy_/items/32d2d0d9f56365ee61fc)
 - [Go Modules and Major Versions](https://codeengineered.com/blog/2019/go-mod-major-versions/)
 - [how to upgrade go mod to v2 or higher version?](https://stackoverflow.com/questions/55096443/how-to-upgrade-go-mod-to-v2-or-higher-version)
+- [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
+- [Modules Part 02: Projects, Dependencies and Gopls](https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html)
+- [Modules Part 03: Minimal Version Selection](https://www.ardanlabs.com/blog/2019/12/modules-03-minimal-version-selection.html)
 
 
 ### concurrent
@@ -443,8 +450,15 @@
 - [Go言語のメモリ管理](https://ascii.jp/elem/000/001/496/1496211/)
 - [Go言語とコンテナ](https://ascii.jp/elem/000/001/502/1502967/)
 
+### web_programming
+
+- [ginを最速でマスターしよう](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)
+
 ### misc
 
+- [意外と知らないgoroutineのスケジューラーの挙動](https://qiita.com/niconegoto/items/3952d3c53d00fccc363b)
+- [Golang での Web アプリ開発で、理解を早める 5 ステップ](https://qiita.com/tsuBee5/items/5b7a0c7c41eb8da8f12a)
+- [Goでジョブキューを実装した](https://kohkimakimoto.hatenablog.com/entry/2020/01/05/150907)
 - [Go言語で扱えるデータフレーム厳選4つ](https://qiita.com/mattn/items/71027a6f8fc720eead6e)
 - [Goでもpandasっぽいことできる！](https://qiita.com/thimi0412/items/05cff32279973b0d5599)
 - [Go で Go を build して Go を Go で開発しよう](https://qiita.com/akif999/items/0b1b5e3ab75756447f9c)
@@ -615,6 +629,7 @@
 - [Go言語でExcel処理パートⅢ ファイルを新規作成し書き込む](http://pineplanter.moo.jp/non-it-salaryman/2017/06/21/go-read-excel3/)
 - [Go言語でExcelファイルから特定データを抽出するアプリ作ったよ](http://pineplanter.moo.jp/non-it-salaryman/2017/06/23/go-extract-excel/)
 - [Using Golang to Read and Create Excel files](https://medium.com/cloud-native-the-gathering/using-golang-to-create-and-read-excel-files-7e0c10a31583)
+- [Go言語で Excel へのスクショ貼りを自動化しよう！](https://qiita.com/zetamatta/items/8c953f05771dcd10b6ed)
 
 ## grpc
 
