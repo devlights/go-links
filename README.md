@@ -64,6 +64,18 @@
   - データフレームライブラリ
 - [gota](https://github.com/go-gota/gota)
   - データフレームライブラリ
+- [gofakeit](https://github.com/brianvoe/gofakeit)
+  - フェイクデータジェネレータ
+- [go-funk](https://github.com/thoas/go-funk)
+  - C#のLinqのようにシーケンスを処理することができるようになるライブラリ
+- [cobra](https://github.com/spf13/cobra)
+  - とても有名なコマンドライン用ライブラリ
+- [viper](https://github.com/spf13/viper)
+  - 設定ファイルを扱うライブラリ。とても有名。
+- [testify](https://github.com/stretchr/testify)
+  - xUnit系のノリでユニットテストを書くことができるライブラリ (assert.Equalとか)
+- [eris](https://github.com/rotisserie/eris)
+  - xerrors, pkg/errors, Go1.13 errorsパッケージにインスパイアされたエラーライブラリ
 - [wails](https://github.com/wailsapp/wails)
   - バックエンドにGo、フロントエンドにWebを採用するGuiフレームワーク
   - [wails.app](https://wails.app/)
@@ -285,6 +297,18 @@
 - [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
 - [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [GoとRustを比較！始めるならどっち？](https://media.itkaikei.com/2019/01/25/go-vs-rust/)
+- [Go vs Rust? Choose Go.](https://endler.dev/2017/go-vs-rust/)
+- [眺めて覚えるGo言語 その6 MISC](https://qiita.com/hiratarich/items/a232ae926491407ab6ea)
+- [眺めて覚えるGo言語 その6 可変引数](https://qiita.com/hiratarich/items/7875211628589d517710)
+- [眺めて覚えるGo言語 その5 TableView&Button](https://qiita.com/hiratarich/items/fe49f2ac79d8abf8758a)
+- [眺めて覚えるGo言語 その4 Windows10 GUI](https://qiita.com/hiratarich/items/acf2ced8c0029510acec)
+- [眺めて覚えるGo言語 その3 web server gateway](https://qiita.com/hiratarich/items/c79dd35353d65ba9c29d)
+- [眺めて覚えるGo言語 その2](https://qiita.com/hiratarich/items/6914c5b2944ec3458915)
+- [眺めて覚えるGo言語](https://qiita.com/hiratarich/items/adf6fd3c4ec4cdd436d5)
+- [Go言語を真面目に勉強する〜1.Goについて知っておく事〜](https://qiita.com/bluemon0919/items/dabda22b50df44999790)
+- [Go言語を真面目に勉強する〜2.基本構文〜](https://qiita.com/bluemon0919/items/2d0e96d330e6c6d96b8d)
+- [Goを真面目に勉強する〜3.関数と型〜](https://qiita.com/bluemon0919/items/000de655f4ab27ea43ae)
 
 ### mod (go modules)
 
@@ -340,6 +364,7 @@
 - [Golang | Error Handling](https://medium.com/@tonaco.braulio/golang-error-handling-4a96ab8db417)
 - [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 - [A Look At Go 1.13 Errors](https://medium.com/onefootball-locker-room/a-look-at-go-1-13-errors-9f6c9f6accb6)
+- [errorsパッケージを使ってエラーハンドリングをうまくやる](https://qiita.com/anraku/items/0faf48353bb7f880861c)
 
 ### logging
 
@@ -422,6 +447,9 @@
 
 - [Go言語で扱えるデータフレーム厳選4つ](https://qiita.com/mattn/items/71027a6f8fc720eead6e)
 - [Goでもpandasっぽいことできる！](https://qiita.com/thimi0412/items/05cff32279973b0d5599)
+- [Go で Go を build して Go を Go で開発しよう](https://qiita.com/akif999/items/0b1b5e3ab75756447f9c)
+- [Data Structures in Go: Hash Table](https://fodor.org/blog/go-hash-table/)
+- [Implementing an Event Driven System in Go](https://dev.to/stephenafamo/implementing-an-event-driven-system-in-go-l64?utm_source=dormosheio&utm_campaign=dormosheio)
 - [Golang Templates Cheatsheet](https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet)
 - [How I Embedded Resources in Go](https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a)
 - [golangでDBの接続文字列にパスワードを含めない安全な方法。](https://qiita.com/_kyamasan/items/8b5673f5927dc7f741bf)
