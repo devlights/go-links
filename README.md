@@ -262,6 +262,7 @@
 - [Applied Go (Go beyond the Go tutorials)](https://appliedgo.net/)
 - [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go/)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
+- [Golang Samples](https://github.com/golang-samples)
 
 ## golang
 
@@ -310,6 +311,7 @@
 - [急いで学ぶGo lang#3 まずは基本構文](https://dev.classmethod.jp/server-side/language/golang-3/)
 - [急いで学ぶGo lang#2 IntelliJ IDEAでGo開発](https://dev.classmethod.jp/server-side/language/golang-2/)
 - [急いで学ぶGo lang#1 概要とセットアップ](https://dev.classmethod.jp/server-side/language/golang-1/)
+- [眺めて覚えるGo言語 その9 deferの書き方](https://qiita.com/hiratarich/items/acb353f5a4521e33bfa1)
 - [眺めて覚えるGo言語 その8 PythonからGO言語を呼ぶ1(引数文字列)](https://qiita.com/hiratarich/items/e82bf9bf04d7f6ba7f18)
 - [眺めて覚えるGo言語 その8 PythonからGO言語を呼ぶ](https://qiita.com/hiratarich/items/edf6fe7a24d61b9bdbc1)
 - [眺めて覚えるGo言語 その7 GO言語の中にC言語](https://qiita.com/hiratarich/items/f5eeb264093a08176a84)
@@ -325,6 +327,8 @@
 - [Goを真面目に勉強する〜3.関数と型〜](https://qiita.com/bluemon0919/items/000de655f4ab27ea43ae)
 - [Pass by reference vs pass by value](https://forum.golangbridge.org/t/pass-by-reference-vs-pass-by-value/15005)
   - めっちゃ分かりやすい図がある
+- [インタフェースの実装パターン](https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8)
+- [Go で UTF-8 の文字列を扱う](https://qiita.com/masakielastic/items/01a4fb691c572dd71a19)
 
 ### mod (go modules)
 
@@ -341,6 +345,7 @@
 - [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
 - [Modules Part 02: Projects, Dependencies and Gopls](https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html)
 - [Modules Part 03: Minimal Version Selection](https://www.ardanlabs.com/blog/2019/12/modules-03-minimal-version-selection.html)
+- [GOPATHを掃除してGo Modulesに移行しよう](https://techblog.kayac.com/migration-gopath-to-go-modules)
 
 
 ### concurrent
@@ -368,6 +373,8 @@
 - [graceful shutdownは難しい](https://qiita.com/kishibashi3/items/d912d570e427015a5b58)
 - [goroutineとチャネルの動きを図を使って理解する(和訳)](https://qiita.com/hirano00o/items/828393342efcd80aa2e6)
   - [A visual introduction to golang concurrency and goroutines](https://stackedco.de/a-visual-introduction-to-golang-goroutines)
+- [イベントはスレッドに比べて何故ダメなのか (Why Events Are A Bad Idea)](https://www.yunabe.jp/docs/why_events_are_a_bad_idea.html)
+- [スレッドとメッセージパッシング](https://qiita.com/hharu/items/91d667a70f934e6bf7c2)
 
 ### error-handling
 
@@ -386,6 +393,8 @@
 - [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 - [A Look At Go 1.13 Errors](https://medium.com/onefootball-locker-room/a-look-at-go-1-13-errors-9f6c9f6accb6)
 - [errorsパッケージを使ってエラーハンドリングをうまくやる](https://qiita.com/anraku/items/0faf48353bb7f880861c)
+- [Error Handling in Go](https://medium.com/gett-engineering/error-handling-in-go-53b8a7112d04)
+- [Error Handling in Go 1.13](https://medium.com/gett-engineering/error-handling-in-go-1-13-5ee6d1e0a55c)
 
 ### logging
 
@@ -473,6 +482,9 @@
 
 ### misc
 
+- [time.Timer#Reset() の正しい使い方](https://www.kaoriya.net/blog/2019/12/19/)
+- [Go 言語 ファイル・I/O 関係のよく使う基本ライブラリ](https://www.yunabe.jp/docs/golang_io.html)
+- [strings.EqualFold 関数を使え](https://text.baldanders.info/golang/use-equalfold-function/)
 - [意外と知らないgoroutineのスケジューラーの挙動](https://qiita.com/niconegoto/items/3952d3c53d00fccc363b)
 - [Goでジョブキューを実装した](https://kohkimakimoto.hatenablog.com/entry/2020/01/05/150907)
 - [Go言語で扱えるデータフレーム厳選4つ](https://qiita.com/mattn/items/71027a6f8fc720eead6e)
