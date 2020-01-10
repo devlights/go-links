@@ -311,6 +311,7 @@
 - [急いで学ぶGo lang#3 まずは基本構文](https://dev.classmethod.jp/server-side/language/golang-3/)
 - [急いで学ぶGo lang#2 IntelliJ IDEAでGo開発](https://dev.classmethod.jp/server-side/language/golang-2/)
 - [急いで学ぶGo lang#1 概要とセットアップ](https://dev.classmethod.jp/server-side/language/golang-1/)
+- [眺めて覚えるGo言語 その10 panic](https://qiita.com/hiratarich/items/1bab29d9f3f68afa1a1e)
 - [眺めて覚えるGo言語 その9 deferの書き方](https://qiita.com/hiratarich/items/acb353f5a4521e33bfa1)
 - [眺めて覚えるGo言語 その8 PythonからGO言語を呼ぶ1(引数文字列)](https://qiita.com/hiratarich/items/e82bf9bf04d7f6ba7f18)
 - [眺めて覚えるGo言語 その8 PythonからGO言語を呼ぶ](https://qiita.com/hiratarich/items/edf6fe7a24d61b9bdbc1)
