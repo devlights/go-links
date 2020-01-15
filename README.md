@@ -263,6 +263,7 @@
 - [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go/)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 - [Golang Samples](https://github.com/golang-samples)
+- [Golang tutorial series(GOLANGBOT.COM)](https://golangbot.com/learn-golang-series/)
 
 ## golang
 
