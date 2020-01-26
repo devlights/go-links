@@ -264,6 +264,7 @@
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 - [Golang Samples](https://github.com/golang-samples)
 - [Golang tutorial series(GOLANGBOT.COM)](https://golangbot.com/learn-golang-series/)
+- [An Ultimate GopherLabs Hands-on Labs](https://collabnix.github.io/gopherlabs/)
 
 ## golang
 
