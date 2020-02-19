@@ -378,6 +378,7 @@
   - [A visual introduction to golang concurrency and goroutines](https://stackedco.de/a-visual-introduction-to-golang-goroutines)
 - [イベントはスレッドに比べて何故ダメなのか (Why Events Are A Bad Idea)](https://www.yunabe.jp/docs/why_events_are_a_bad_idea.html)
 - [スレッドとメッセージパッシング](https://qiita.com/hharu/items/91d667a70f934e6bf7c2)
+- [Keeping a steady pace with Go](https://engineering.hexacta.com/keeping-a-steady-pace-with-go-fa7cb6001da8)
 
 ### error-handling
 
@@ -487,6 +488,9 @@
 
 ### misc
 
+- [Goでパスワード入力を読み取る(Windows/Mac/Linux対応)](https://qiita.com/moutend/items/12d53750363edbbc3d6b)
+- [【Go言語】パスワードをハッシュ化(bcrypt)](https://blog.motikan2010.com/entry/2017/02/13/%E3%80%90Go%E8%A8%80%E8%AA%9E%E3%80%91%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E5%8C%96(bcrypt))
+- [Password Hash & Salt Using Golang](https://medium.com/@jcox250/password-hash-salt-using-golang-b041dc94cb72)
 - [Your Time-based One time passwords from your terminal](https://medium.com/@jtbonhomme/your-time-based-one-time-passwords-from-your-terminal-e9955fbc9b65)
 - [time.Timer#Reset() の正しい使い方](https://www.kaoriya.net/blog/2019/12/19/)
 - [Go 言語 ファイル・I/O 関係のよく使う基本ライブラリ](https://www.yunabe.jp/docs/golang_io.html)
