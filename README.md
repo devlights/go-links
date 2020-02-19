@@ -429,6 +429,8 @@
 - [How to Use Websockets in Golang : Best Tools and Step-by-Step Guide](https://yalantis.com/blog/how-to-build-websockets-in-go/)
 - [How to test TCP/UDP connections in Go - Part 1](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-1-3bga)
 - [How to test TCP/UDP connections in Go - Part 2](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-2-2960)
+- [Golangのネットワーク関連ライブラリを雑多にまとめる](https://qiita.com/kudojp/items/706c7104111eca2e32c3)
+  - HMACについても少し記載あり
 
 ### testing
 
@@ -485,6 +487,7 @@
 
 ### misc
 
+- [Your Time-based One time passwords from your terminal](https://medium.com/@jtbonhomme/your-time-based-one-time-passwords-from-your-terminal-e9955fbc9b65)
 - [time.Timer#Reset() の正しい使い方](https://www.kaoriya.net/blog/2019/12/19/)
 - [Go 言語 ファイル・I/O 関係のよく使う基本ライブラリ](https://www.yunabe.jp/docs/golang_io.html)
 - [strings.EqualFold 関数を使え](https://text.baldanders.info/golang/use-equalfold-function/)
@@ -660,6 +663,7 @@
 
 ## gcp
 
+- [Go言語(golang)でGoogle Cloud Storageからファイルを取得する](https://dev.classmethod.jp/cloud/gcp/golang-read-gcs/)
 - [Go言語で開発したWebアプリをGCP(GKE)へデプロイして公開する](https://qiita.com/melty_go/items/6ec8b1e423dc1d63da24)
 - [Go言語で開発したWebアプリをGCP(GAE)へデプロイする](https://qiita.com/melty_go/items/074af694aa8a1c8ec798)
 - [【GCP入門編・第1回】エンジニア必読！今さら聞けない、Google Cloud Platform (GCP) とは？](https://www.topgate.co.jp/gcp01-what-is-google-cloud-platform)
