@@ -265,6 +265,7 @@
 - [Golang Samples](https://github.com/golang-samples)
 - [Golang tutorial series(GOLANGBOT.COM)](https://golangbot.com/learn-golang-series/)
 - [An Ultimate GopherLabs Hands-on Labs](https://collabnix.github.io/gopherlabs/)
+- [Learn Go Programming](https://blog.learngoprogramming.com/)
 
 ## golang
 
@@ -488,6 +489,7 @@
 
 ### misc
 
+- [Print The Current Memory Usage](https://golangcode.com/print-the-current-memory-usage/)
 - [Goでパスワード入力を読み取る(Windows/Mac/Linux対応)](https://qiita.com/moutend/items/12d53750363edbbc3d6b)
   - [terminalパッケージ](https://pkg.go.dev/golang.org/x/crypto/ssh/terminal?tab=doc)
 - [【Go言語】パスワードをハッシュ化(bcrypt)](https://blog.motikan2010.com/entry/2017/02/13/%E3%80%90Go%E8%A8%80%E8%AA%9E%E3%80%91%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E5%8C%96(bcrypt))
