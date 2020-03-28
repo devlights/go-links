@@ -6,6 +6,7 @@
 
 - [基本](#basics)
 - [github](#github)
+- [GoLand](#goland)
 - [TUI](#tui)
 - [情報が沢山あるサイト](#many_golang_articles)
 - [golang](#golang)
@@ -184,6 +185,48 @@
   - Go言語用のREPL
 - [tint](https://github.com/printzero/tint)
   - ターミナルの出力に色をつけてくれるライブラリ
+
+## goland
+
+### IDE Features
+- [Top 25 Editing Features of GoLand IDE – Part 1](https://blog.jetbrains.com/go/2019/10/04/top-25-editing-features-of-goland-ide-part-1/)
+- [Top 25 Editing Features of GoLand IDE – Part 2](https://blog.jetbrains.com/go/2019/10/08/top-25-editing-features-of-goland-ide-part-2/)
+- [Top 25 Editing Features of GoLand IDE – Part 3](https://blog.jetbrains.com/go/2019/10/10/top-25-editing-features-of-goland-ide-part-3/)
+- [GoLand Editing Features You Didn’t Know About](https://blog.jetbrains.com/go/2020/03/11/goland-editing-features-you-didnt-know-about/)
+- [All About Code Completion in GoLand](https://blog.jetbrains.com/go/2019/01/17/code-completion-in-goland/)
+
+### Modules
+- [Working with Go Modules – Getting started](https://blog.jetbrains.com/go/2020/02/26/working-with-go-modules-getting-started/)
+- [Working with Go Modules – Dependency management](https://blog.jetbrains.com/go/2020/03/16/working-with-go-modules-dependency-management/)
+- [Working with Go Modules – Versioning](https://blog.jetbrains.com/go/2020/03/25/working-with-go-modules-versioning/)
+
+### Refactoring
+- [Refactorings in GoLand: Change Signature](https://blog.jetbrains.com/go/2018/10/19/refactorings-change-signature/)
+- [Refactorings in GoLand: Extract and Inline](https://blog.jetbrains.com/go/2018/10/26/refactorings-in-goland-extract-and-inline/)
+- [Refactorings in GoLand: Move refactoring](https://blog.jetbrains.com/go/2018/11/30/refactorings-in-goland-move-refactoring/)
+- [Refactorings in GoLand: Rename refactoring](https://blog.jetbrains.com/go/2018/12/07/refactorings-in-goland-rename-refactoring/)
+
+### Debug
+- [Debugging with GoLand – Getting Started](https://blog.jetbrains.com/go/2019/02/06/debugging-with-goland-getting-started/)
+- [Debugging with GoLand – Essentials](https://blog.jetbrains.com/go/2019/02/14/debugging-with-goland-essentials/)
+- [Debugging with GoLand – Improvements in 2019.1](https://blog.jetbrains.com/go/2019/02/21/debugging-in-goland-improvements-in-2019-1/)
+- [Debugging with GoLand – Advanced Debugging features](https://blog.jetbrains.com/go/2019/03/04/debugging-with-goland-advanced-debugging-features/)
+- [How to Find Goroutines During Debugging](https://blog.jetbrains.com/go/2020/03/03/how-to-find-goroutines-during-debugging/)
+- [Debugging containerized Go applications](https://blog.jetbrains.com/go/2018/04/30/debugging-containerized-go-applications/)
+
+### TDD
+- [Test Driven Development with GoLand](https://blog.jetbrains.com/go/2020/03/13/test-driven-development-with-goland/)
+
+### New Release
+- [Hello, GoLand 2019.1!](https://blog.jetbrains.com/go/2019/03/27/hello-goland-2019-1/)
+- [Say Hello to GoLand 2019.2!](https://blog.jetbrains.com/go/2019/07/25/goland-2019-2/)
+- [GoLand 2020.1 Reaches Beta!](https://blog.jetbrains.com/go/2020/03/26/goland-2020-1-reaches-beta/)
+
+### What's New
+- [2019.1](https://www.jetbrains.com/go/whatsnew/#v2019-1)
+- [2019.2](https://www.jetbrains.com/go/whatsnew/#v2019-2)
+- [2019.3](https://www.jetbrains.com/go/whatsnew/#v2019-3)
+
 
 ## tui
 
