@@ -20,6 +20,7 @@
 - [Go Official Page](https://golang.org/)
   - [Go 1.12 リリースノート](https://qiita.com/c-yan/items/5001121aa6a9566c7466)
   - [Go 1.13 リリースノート](https://qiita.com/c-yan/items/b2f5e5c168d517594eb2)
+  - [Go 1.14 リリースノート](https://qiita.com/c-yan/items/3dd0c63ea4c3041728cc)
 - [Go Documentation](https://golang.org/doc/)
 - [Go Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Blog](https://blog.golang.org/)
