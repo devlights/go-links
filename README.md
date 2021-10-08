@@ -425,6 +425,7 @@
 - [イベントはスレッドに比べて何故ダメなのか (Why Events Are A Bad Idea)](https://www.yunabe.jp/docs/why_events_are_a_bad_idea.html)
 - [スレッドとメッセージパッシング](https://qiita.com/hharu/items/91d667a70f934e6bf7c2)
 - [Keeping a steady pace with Go](https://engineering.hexacta.com/keeping-a-steady-pace-with-go-fa7cb6001da8)
+- [Concurrency patterns in Go](https://golangexample.com/concurrency-patterns-in-go/)
 
 ### error-handling
 
