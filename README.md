@@ -311,6 +311,7 @@
 - [An Ultimate GopherLabs Hands-on Labs](https://collabnix.github.io/gopherlabs/)
 - [Learn Go Programming](https://blog.learngoprogramming.com/)
 - [Golang Code](https://golangcode.com/)
+- [Go from the beginning](https://softchris.github.io/golang-book/)
 
 ## golang
 
