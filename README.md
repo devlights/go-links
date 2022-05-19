@@ -322,6 +322,8 @@
 - [Go from the beginning](https://softchris.github.io/golang-book/)
 - [GoでWebアプリケーションを作る](https://iij.github.io/bootcamp/server-app/go/)
   - IIJさんが公開してくれている新人エンジニア向けのハンズオン資料
+- [go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide)
+  - 非同期関連の技術について説明してくれている
 
 ## golang
 
