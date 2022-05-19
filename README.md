@@ -189,6 +189,10 @@
   - Go言語用のREPL
 - [tint](https://github.com/printzero/tint)
   - ターミナルの出力に色をつけてくれるライブラリ
+- [sprig](https://github.com/Masterminds/sprig)
+  - Goのテンプレートエンジンで利用できる便利関数ライブラリ
+- [go-task](https://github.com/go-task/task)
+  - makeの代替として利用できるGoで作られているタスクランナー、ビルドツール
 
 ## goland
 
