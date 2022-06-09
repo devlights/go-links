@@ -256,6 +256,8 @@
 
 ## many_golang_articles
 
+- [とほほのGo言語入門](https://www.tohoho-web.com/ex/golang.html)
+  - 昔からずっとお世話になっています。Goについても書かれています。
 - [Qiita - Goタグ](https://qiita.com/tags/go)
 - [Go 言語に関するブックマーク](https://qiita.com/spiegel-im-spiegel/items/98d49ac456485b007a15)
 - [Go言語の勉強に役立つリンク集](https://qiita.com/nemui_/items/35064455964241b6307d)
