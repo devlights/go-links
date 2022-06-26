@@ -238,6 +238,8 @@
 
 ## tui
 
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea)
+  - [Bubble Tea でリッチなターミナルアプリケーションを作る](https://motemen.hatenablog.com/entry/2022/06/introduction-to-go-bubbletea)
 - [Termbox-go](https://github.com/nsf/termbox-go)
   - [termbox](https://github.com/nsf/termbox) の Go版
 - [tcell](https://github.com/gdamore/tcell)
