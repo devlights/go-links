@@ -722,6 +722,7 @@
 
 ## grpc
 
+- [作ってわかる！ はじめてのgRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
 - [Protocol Buffers / Go Generated Code（和訳）](https://qiita.com/takegamm/items/3b7a2c6e9c56ab58c909)
 - [Golang gRPC — Part 2 — Simple chat application with gRPC](https://medium.com/@viethapascal/golang-grpc-part-2-simple-chat-application-with-grpc-ef6a6c0eea32)
 - [Golang gRPC — Part 1 — gRPC and protobuf syntax](https://medium.com/@viethapascal/golang-grpc-part-1-grpc-and-protobuf-syntax-d7b03cc24815)
