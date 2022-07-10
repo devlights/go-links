@@ -328,6 +328,7 @@
   - IIJさんが公開してくれている新人エンジニア向けのハンズオン資料
 - [go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide)
   - 非同期関連の技術について説明してくれている
+- [How To Code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 
 ## golang
 
