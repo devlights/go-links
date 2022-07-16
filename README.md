@@ -329,6 +329,8 @@
 - [go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide)
   - 非同期関連の技術について説明してくれている
 - [How To Code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes)
+- [Mini Resource List for Golang](https://dev.to/kasia/mini-resource-list-for-golang-m87)
 
 ## golang
 
