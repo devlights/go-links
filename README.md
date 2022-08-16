@@ -578,6 +578,12 @@
 - [Goメモ-231 (メモリコピー無しで string から []byte へ変換する)(unsafe)](https://devlights.hatenablog.com/entry/2022/08/03/073000)
 - [Goメモ-232 (xmlのMarshal/Unmarshalで入れ子の要素を指定)](https://devlights.hatenablog.com/entry/2022/08/04/073000)
 - [Goメモ-233 (ライブラリの利用可能バージョンを表示)(go list -m -versions)](https://devlights.hatenablog.com/entry/2022/08/05/073000)
+- [Goメモ-234 (カバレッジの結果をHTMLで出力)(coverprofile, go tool cover)](https://devlights.hatenablog.com/entry/2022/08/08/073000)
+- [Goメモ-235 (ランダムでテストの実行)(go test, shuffle)](https://devlights.hatenablog.com/entry/2022/08/09/073000)
+- [Goメモ-236 (指定回数分テストを実行)(go test, count)](https://devlights.hatenablog.com/entry/2022/08/10/073000)
+- [Goメモ-237 (別プロセスにシグナルを送る)(os.FindProcess, /proc)](https://devlights.hatenablog.com/entry/2022/08/12/073000)
+- [Goメモ-238 (Go 1.19 がリリース)](https://devlights.hatenablog.com/entry/2022/08/15/073000)
+- [Goメモ-239 (bep/logg というログライブラリ使ってみた)](https://devlights.hatenablog.com/entry/2022/08/16/073000)
 
 ## golang
 
