@@ -811,6 +811,7 @@
 
 ### misc
 
+- [Sync package in Go](https://dev.to/karanpratapsingh/sync-package-in-go-1bkn)
 - [Print The Current Memory Usage](https://golangcode.com/print-the-current-memory-usage/)
 - [Goでパスワード入力を読み取る(Windows/Mac/Linux対応)](https://qiita.com/moutend/items/12d53750363edbbc3d6b)
   - [terminalパッケージ](https://pkg.go.dev/golang.org/x/crypto/ssh/terminal?tab=doc)
