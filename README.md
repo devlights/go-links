@@ -269,6 +269,8 @@
 - [Go Advent Calendar 2017](https://qiita.com/advent-calendar/2017/go)
 - [Go Advent Calendar 2018](https://qiita.com/advent-calendar/2018/go)
 - [Go Advent Calendar 2019](https://qiita.com/advent-calendar/2019/go)
+- [Go Advent Calendar 2020](https://qiita.com/advent-calendar/2020/go)
+- [Go Advent Calendar 2021](https://qiita.com/advent-calendar/2021/go)
 - [逆引きGolang](https://ashitani.jp/golangtips/index.html)
 - [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [プログラミング言語 Go](https://text.baldanders.info/golang/)
