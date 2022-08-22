@@ -807,6 +807,7 @@
 - [ginを最速でマスターしよう](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
+- [A Gentle Intro to Golang Web Development Series' Articles](https://dev.to/jpoly1219/series/17666)
 
 ### misc
 
