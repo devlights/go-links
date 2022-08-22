@@ -332,6 +332,11 @@
 - [How To Code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes)
 - [Mini Resource List for Golang](https://dev.to/kasia/mini-resource-list-for-golang-m87)
+- [Go 101](https://go101.org/)
+  - [Go (Fundamentals) 101](https://go101.org/article/101.html)
+  - [Go Generics 101](https://go101.org/generics/101.html)
+  - [Go Optimizations 101](https://go101.org/optimizations/101.html)
+  - [ Go Details & Tips 101](https://go101.org/details-and-tips/101.html)
 
 ## golang-memo
 
