@@ -816,6 +816,10 @@
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
 - [A Gentle Intro to Golang Web Development Series' Articles](https://dev.to/jpoly1219/series/17666)
+- [Golang : gin tutorial - 1 (Creating a RESTful API With Golang gin)](https://spdeepak.hashnode.dev/golang-gin-tutorial-1)
+- [Golang : gin tutorial - 2 (Create a GET request)](https://spdeepak.hashnode.dev/golang-gin-tutorial-2)
+- [Golang : gin tutorial - 3 (Create a POST request)](https://spdeepak.hashnode.dev/golang-gin-tutorial-3)
+- [Golang : gin tutorial - 4 (Create a multipart/form-data POST request)](https://spdeepak.hashnode.dev/golang-gin-tutorial-4)
 
 ### misc
 
