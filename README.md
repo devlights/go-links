@@ -61,6 +61,7 @@
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
 - [Goにおける最適なディレクトリ構成はもはやこれだと思う](https://qiita.com/rema424/items/9ffbdf584b705cae6a19)
+- [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package/viewer/intro)
 
 ## github
 
