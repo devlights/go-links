@@ -594,6 +594,7 @@
 - [Goメモ-239 (bep/logg というログライブラリ使ってみた)](https://devlights.hatenablog.com/entry/2022/08/16/073000)
 - [Goメモ-240 (go install したアプリを go clean で消す方法)](https://devlights.hatenablog.com/entry/2022/08/17/073000)
 - [Goメモ-241 (go testの結果をjson形式で出力)(go test -json, jq)](https://devlights.hatenablog.com/entry/2022/08/18/073000)
+- [Goメモ-242 (charmbracelet/bubbletea にマルチバイトサポートが入った)(v0.22.1)](https://devlights.hatenablog.com/entry/2022/08/24/073000)
 
 ## golang
 
