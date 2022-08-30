@@ -814,6 +814,7 @@
 
 ### web_programming
 
+- [[翻訳]Go言語のWebアプリケーションの書き方(原文: Writing Web Applications)](https://qiita.com/AYukiEngineer/items/3206e9fd07ed60169b13)
 - [Golang での Web アプリ開発で、理解を早める 5 ステップ](https://qiita.com/tsuBee5/items/5b7a0c7c41eb8da8f12a)
 - [ginを最速でマスターしよう](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
