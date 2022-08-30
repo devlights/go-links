@@ -319,6 +319,8 @@
 - [株式会社ライトコート(IT技術)](https://rightcode.co.jp/blog/information-technology)
 - [Go-SCP](https://github.com/OWASP/Go-SCP)
   - secure coding practices guide
+- [Go-SCP-Ja](https://github.com/techtouch-inc/Go-SCP-jaJP)
+  - Go-SCP の日本語訳
 - [Applied Go (Go beyond the Go tutorials)](https://appliedgo.net/)
 - [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go/)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
