@@ -602,6 +602,8 @@
 - [Goメモ-244 (GoでDeprecatedの表し方)](https://devlights.hatenablog.com/entry/2022/08/31/073000)
 - [Goメモ-245 (ビルド時にキャッシュを使わないように設定する)(force rebuild)](https://devlights.hatenablog.com/entry/2022/09/02/073000)
 - [Goメモ-246 (セキュリティ的に安全な乱数を取得する)(crypto/rand, Reader)](https://devlights.hatenablog.com/entry/2022/09/05/073000)
+- [Goメモ-247 (crypto/aesで暗号化と復号)(ECB, Electronic Codebook Mode)](https://devlights.hatenablog.com/entry/2022/09/06/073000)
+- [Goメモ-248 (crypto/aesで暗号化と復号)(CBC, Cipher Block Chaining Mode)](https://devlights.hatenablog.com/entry/2022/09/07/073000)
 
 ## golang
 
