@@ -195,6 +195,8 @@
   - Goのテンプレートエンジンで利用できる便利関数ライブラリ
 - [go-task](https://github.com/go-task/task)
   - makeの代替として利用できるGoで作られているタスクランナー、ビルドツール
+- [hystrix-go](https://github.com/afex/hystrix-go)
+  - [Netflix Hystrix](https://github.com/Netflix/Hystrix) の Go 実装
 
 ## goland
 
