@@ -14,6 +14,7 @@
 - [excel](#excel)
 - [grpc](#grpc)
 - [gcp](#gcp)
+- [GoCV](#gocv)
 
 ---
 
@@ -1057,3 +1058,21 @@
 - [【GCP入門編・第30回】 Cloud CDNで静的ファイルの配布を行う](https://www.topgate.co.jp/gcp30-cloud-cdn)
 - [【GCP入門編・第31回】 GCP のネットワークにサブネットを追加する](https://www.topgate.co.jp/gcp31-gcp-subnet)
 
+# gocv
+
+GoCVは、GoからOpenCV 4 にアクセスすることが出来るライブラリ。利用する場合、OpenCV4のインストールは必須。
+
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv)
+  - 本家
+- [gocv.io](https://gocv.io/)
+  - 本家のgithubページ
+- [GoCVを使ってみた](https://zenn.dev/wattak777/articles/9face959ffb497)
+- [GOCVを使ってみた](https://qiita.com/wattak777/items/73fd189da7cf87a3dafe)
+- [Go+GoCVでSIFT特徴量取得アプリとYOLOを使った物体検出アプリを作ってみる](https://note.com/shift_tech/n/n35ee24567dbb)
+- [OpenCV, GoCV, Go言語における画像処理のパフォーマンスの比較](https://techblog.zozo.com/entry/imageproc_golang)
+- [Go言語へのGoCV(OpenCV)インストール手順](https://elsammit-beginnerblg.hatenablog.com/entry/2020/09/21/102427)
+- [gocvで画像を作成して出力](https://m-shige1979.hatenablog.com/entry/2018/07/30/080000)
+- [GOCVの環境構築とサンプル一部紹介](https://qiita.com/pisa-kun/items/b5ccc2b17cf509d7bed5)
+- [Go＋GoCVでクロスプロセス写真風の加工をしてみる](https://note.com/shift_tech/n/n8cec39ed373d)
+- [Gobot](https://gobot.io/documentation/getting-started/)
+  - Gobot is a framework for robotics, physical computing, and the Internet of Things (IoT), written in the Go programming language.
