@@ -827,6 +827,7 @@
 
 ### web_programming
 
+- [GoでシンプルなHTTPサーバを自作する](https://qiita.com/tutuz/items/ab1fd3c0ee6fa01e08b6)
 - [Goでnet/httpを使う時のこまごまとした注意](https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18)
 - [Go net/httpパッケージの概要とHTTPクライアント実装例](https://qiita.com/jpshadowapps/items/463b2623209479adcd88)
 - [[翻訳]Go言語のWebアプリケーションの書き方(原文: Writing Web Applications)](https://qiita.com/AYukiEngineer/items/3206e9fd07ed60169b13)
