@@ -795,8 +795,10 @@
 - [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 - [Go言語でユニットテスト, テストしやすいコードとモックを書く](https://qiita.com/hiroyky/items/4a9be463e752d5c0c41c)
 - [How to Test Local Changes with Go Mod](https://medium.com/@teivah/how-to-test-a-local-branch-with-go-mod-54df087fc9cc)
+- [What is Fuzz Testing?](https://blog.fuzzbuzz.io/what-is-fuzz-testing/)
 - [Go Fuzz Testing - The Basics](https://blog.fuzzbuzz.io/go-fuzzing-basics/)
 - [Advanced Go Fuzzing Techniques](https://blog.fuzzbuzz.io/writing-effective-go-fuzz-tests/)
+- [Fuzzing Go APIs for SQL Injection](https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/)
 
 ### wasm
 
