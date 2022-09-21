@@ -795,6 +795,8 @@
 - [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 - [Go言語でユニットテスト, テストしやすいコードとモックを書く](https://qiita.com/hiroyky/items/4a9be463e752d5c0c41c)
 - [How to Test Local Changes with Go Mod](https://medium.com/@teivah/how-to-test-a-local-branch-with-go-mod-54df087fc9cc)
+- [Go Fuzz Testing - The Basics](https://blog.fuzzbuzz.io/go-fuzzing-basics/)
+- [Advanced Go Fuzzing Techniques](https://blog.fuzzbuzz.io/writing-effective-go-fuzz-tests/)
 
 ### wasm
 
@@ -847,6 +849,7 @@
 - [Go の 'net/http' でリクエストを投げるまでの足跡](https://qiita.com/takayukioda/items/68c51c5a0e9757a882ee)
 - [goのnet/httpでのやらかし事例](https://qiita.com/stk0724/items/dc400dccd29a4b3d6471)
 - [Go言語: net/httpで建てたサーバにnetcatでリクエストすると400 Bad Requestが付いてくる件](https://qiita.com/suin/items/7e1cf108a502c3f5ad6d)
+- [チュートリアル: GoとGinによるRESTfulなAPI開発(原文: Tutorial: Developing a RESTFul API with Go and Gin)](https://qiita.com/AYukiEngineer/items/8b75ac057d7ef502cba8)
 
 ### misc
 
@@ -1023,6 +1026,7 @@
 
 ## grpc
 
+- [なるべく詳しく調べるgRPC入門](https://qiita.com/kawamou/items/49176fa4035d485065c1)
 - [作ってわかる！ はじめてのgRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
 - [Protocol Buffers / Go Generated Code（和訳）](https://qiita.com/takegamm/items/3b7a2c6e9c56ab58c909)
 - [Golang gRPC — Part 2 — Simple chat application with gRPC](https://medium.com/@viethapascal/golang-grpc-part-2-simple-chat-application-with-grpc-ef6a6c0eea32)
