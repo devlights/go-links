@@ -827,6 +827,8 @@
 
 ### web_programming
 
+- [Goでnet/httpを使う時のこまごまとした注意](https://qiita.com/ono_matope/items/60e96c01b43c64ed1d18)
+- [Go net/httpパッケージの概要とHTTPクライアント実装例](https://qiita.com/jpshadowapps/items/463b2623209479adcd88)
 - [[翻訳]Go言語のWebアプリケーションの書き方(原文: Writing Web Applications)](https://qiita.com/AYukiEngineer/items/3206e9fd07ed60169b13)
 - [Golang での Web アプリ開発で、理解を早める 5 ステップ](https://qiita.com/tsuBee5/items/5b7a0c7c41eb8da8f12a)
 - [ginを最速でマスターしよう](https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a)
@@ -837,6 +839,12 @@
 - [Golang : gin tutorial - 2 (Create a GET request)](https://spdeepak.hashnode.dev/golang-gin-tutorial-2)
 - [Golang : gin tutorial - 3 (Create a POST request)](https://spdeepak.hashnode.dev/golang-gin-tutorial-3)
 - [Golang : gin tutorial - 4 (Create a multipart/form-data POST request)](https://spdeepak.hashnode.dev/golang-gin-tutorial-4)
+- [Go http.RoundTripper 実装ガイド](https://qiita.com/tutuming/items/6006e1d8cf94bc40f8e8)
+- [Goのhttp.RoundTripperでレート制御とリトライの機能を追加する方法](https://zenn.dev/fujisawa33/articles/aef6d266aa751f)
+  - リトライや秒間N回までのような制御を行うことが出来るようになるやり方
+- [GoでHTTP Clientのテストを書く](https://qiita.com/sawadashota/items/47d8e990f27372d4c4c8)
+- [Go の 'net/http' でリクエストを投げるまでの足跡](https://qiita.com/takayukioda/items/68c51c5a0e9757a882ee)
+- [goのnet/httpでのやらかし事例](https://qiita.com/stk0724/items/dc400dccd29a4b3d6471)
 
 ### misc
 
