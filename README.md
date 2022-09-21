@@ -845,6 +845,7 @@
 - [GoでHTTP Clientのテストを書く](https://qiita.com/sawadashota/items/47d8e990f27372d4c4c8)
 - [Go の 'net/http' でリクエストを投げるまでの足跡](https://qiita.com/takayukioda/items/68c51c5a0e9757a882ee)
 - [goのnet/httpでのやらかし事例](https://qiita.com/stk0724/items/dc400dccd29a4b3d6471)
+- [Go言語: net/httpで建てたサーバにnetcatでリクエストすると400 Bad Requestが付いてくる件](https://qiita.com/suin/items/7e1cf108a502c3f5ad6d)
 
 ### misc
 
