@@ -263,6 +263,7 @@
 
 ## many_golang_articles
 
+- [The Go Handbook – Learn Golang for Beginners](https://www.freecodecamp.org/news/go-beginners-handbook/)
 - [とほほのGo言語入門](https://www.tohoho-web.com/ex/golang.html)
   - 昔からずっとお世話になっています。Goについても書かれています。
 - [Qiita - Goタグ](https://qiita.com/tags/go)
