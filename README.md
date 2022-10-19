@@ -28,6 +28,7 @@
   - [Go 1.16 リリースノート](https://go.dev/doc/devel/release#go1.16)
   - [Go 1.17 リリースノート](https://go.dev/doc/devel/release#go1.17)
   - [Go 1.18 リリースノート](https://go.dev/doc/devel/release#go1.18)
+  - [GO 1.19 リリースノート](https://tip.golang.org/doc/go1.19)
 - [Go Documentation](https://golang.org/doc/)
 - [Go Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Blog](https://blog.golang.org/)
