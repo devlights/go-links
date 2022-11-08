@@ -686,6 +686,8 @@
   - めっちゃ分かりやすい図がある
 - [インタフェースの実装パターン](https://qiita.com/tenntenn/items/eac962a49c56b2b15ee8)
 - [Go で UTF-8 の文字列を扱う](https://qiita.com/masakielastic/items/01a4fb691c572dd71a19)
+- [The Laws of Reflection](https://go.dev/blog/laws-of-reflection)
+  - Go本家ブログのリフレクションについての記事
 
 ### mod (go modules)
 
