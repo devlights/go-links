@@ -29,6 +29,7 @@
   - [Go 1.17 リリースノート](https://go.dev/doc/devel/release#go1.17)
   - [Go 1.18 リリースノート](https://go.dev/doc/devel/release#go1.18)
   - [GO 1.19 リリースノート](https://tip.golang.org/doc/go1.19)
+  - [GO 1.20 リリースノート(Draft)](https://tip.golang.org/doc/go1.20)
 - [Go Documentation](https://golang.org/doc/)
 - [Go Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Blog](https://blog.golang.org/)
@@ -64,6 +65,12 @@
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
 - [Goにおける最適なディレクトリ構成はもはやこれだと思う](https://qiita.com/rema424/items/9ffbdf584b705cae6a19)
 - [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package/viewer/intro)
+
+## styleguilde
+
+- [Style Guide](https://google.github.io/styleguide/go/guide)
+- [Style Decisions](https://google.github.io/styleguide/go/decisions)
+- [Best Practices](https://google.github.io/styleguide/go/best-practices)
 
 ## github
 
