@@ -2,7 +2,15 @@
 
 後で見るとマークしている情報へのリンク集です。（順不同）
 
+## 関連情報
+
+宜しければ、こちらもご参照ください。
+
+- [blog-summary](https://github.com/devlights/blog-summary)
+
 ---
+
+## ToC
 
 - [基本](#basics)
 - [github](#github)
