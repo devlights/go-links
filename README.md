@@ -215,6 +215,9 @@
   - makeの代替として利用できるGoで作られているタスクランナー、ビルドツール
 - [hystrix-go](https://github.com/afex/hystrix-go)
   - [Netflix Hystrix](https://github.com/Netflix/Hystrix) の Go 実装
+- [netpoll](https://github.com/cloudwego/netpoll)
+  - About A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
+  - ノンブロッキング I/O ネットワークフレームワーク
 
 ## goland
 
