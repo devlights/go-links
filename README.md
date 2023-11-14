@@ -728,6 +728,11 @@
 - [Goメモ-344 (CodeSandboxにてGoがサポートされてた）](https://devlights.hatenablog.com/entry/2023/10/06/073000)
 - [Goメモ-345 (Go 1.22で http.ServeMux にパターンマッチング機能が追加される）(gotip, net/http)](https://devlights.hatenablog.com/entry/2023/10/25/073000)
 - [Goメモ-346 (awesome-slog)(slogパッケージのカスタムハンドラへのリンク集)](https://devlights.hatenablog.com/entry/2023/10/27/073000)
+- [Goメモ-347 (plush)(JSPライクな書き方が出来るテンプレートエンジン)](https://devlights.hatenablog.com/entry/2023/11/01/073000)
+- [Goメモ-348 (シングルトンパターン)(design-pattern, singleton)](https://devlights.hatenablog.com/entry/2023/11/02/073000)
+- [Goメモ-349 (math/bigを使って丸め誤差が出ないように計算する)](https://devlights.hatenablog.com/entry/2023/11/08/073000)
+- [Goメモ-350 (github.com/shopspring/decimalを使って計算)](https://devlights.hatenablog.com/entry/2023/11/09/073000)
+- [Goメモ-351 (sync.OnceFunc)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/14/073000)
 
 ## golang
 
