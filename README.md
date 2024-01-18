@@ -10,19 +10,45 @@
 
 ---
 
-## ToC
+<!-- TOC -->
 
-- [基本](#basics)
-- [github](#github)
-- [GoLand](#goland)
-- [TUI](#tui)
-- [情報が沢山あるサイト](#many_golang_articles)
-- [golang-memo](#golang-memo)
-- [golang](#golang)
-- [excel](#excel)
-- [grpc](#grpc)
-- [gcp](#gcp)
-- [GoCV](#gocv)
+- [Go言語関連記事のリンク集](#go%E8%A8%80%E8%AA%9E%E9%96%A2%E9%80%A3%E8%A8%98%E4%BA%8B%E3%81%AE%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86)
+    - [関連情報](#%E9%96%A2%E9%80%A3%E6%83%85%E5%A0%B1)
+    - [basics](#basics)
+    - [styleguilde](#styleguilde)
+    - [library](#library)
+    - [goland](#goland)
+        - [IDE Features](#ide-features)
+        - [Modules](#modules)
+        - [Refactoring](#refactoring)
+        - [Debug](#debug)
+        - [TDD](#tdd)
+        - [New Release](#new-release)
+        - [What's New](#whats-new)
+    - [tui](#tui)
+    - [many_golang_articles](#many_golang_articles)
+    - [golang-memo](#golang-memo)
+    - [golang](#golang)
+        - [lang-spec](#lang-spec)
+        - [mod go modules](#mod-go-modules)
+        - [concurrent](#concurrent)
+        - [error-handling](#error-handling)
+        - [logging](#logging)
+        - [image](#image)
+        - [file-io](#file-io)
+        - [networking](#networking)
+        - [testing](#testing)
+        - [wasm](#wasm)
+        - [system_programming](#system_programming)
+        - [web_programming](#web_programming)
+        - [misc](#misc)
+    - [database](#database)
+    - [excel](#excel)
+    - [grpc](#grpc)
+    - [gcp](#gcp)
+- [gocv](#gocv)
+
+<!-- /TOC -->
 
 ---
 
@@ -81,7 +107,7 @@
 - [Style Decisions](https://google.github.io/styleguide/go/decisions)
 - [Best Practices](https://google.github.io/styleguide/go/best-practices)
 
-## github
+## library
 
 - [hq](https://github.com/kohkimakimoto/hq)
   - Goで実装されたシンプルなジョブキュー
@@ -218,6 +244,49 @@
 - [netpoll](https://github.com/cloudwego/netpoll)
   - About A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
   - ノンブロッキング I/O ネットワークフレームワーク
+- [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3)
+- [glebarez/go-sqlite](https://github.com/glebarez/go-sqlite)
+- [modernc.org/sqlite](https://gitlab.com/cznic/sqlite)
+- [uptrace/bun](https://github.com/uptrace/bun)
+- [sqlx](https://github.com/jmoiron/sqlx)
+- [sqlc](https://github.com/sqlc-dev/sqlc)
+- [textql](https://github.com/dinedal/textql)
+- [xlsxsql](https://github.com/noborus/xlsxsql)
+- [trdsql](https://github.com/noborus/trdsql)
+- [gorm](https://github.com/go-gorm/gorm)
+- [ent](https://github.com/ent/ent)
+- [go-ordered-map](https://github.com/wk8/go-ordered-map)
+- [shmipc-go](https://github.com/cloudwego/shmipc-go)
+  - high performance inter-process communication library developed by ByteDance
+- [gev](https://github.com/Allenxuxu/gev)
+  - A lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. 
+- [tcp-shaker](https://github.com/tevino/tcp-shaker)
+  - Perform TCP handshake without ACK in Go
+- [gonet](https://github.com/hsheth2/gonet)
+  - A TCP/IP network stack written in Go
+- [netstack](https://github.com/google/netstack)
+  - IPv4 and IPv6 userland network stack
+  - 2020年にアーカイブされているが、参考になる実装がある
+- [gnet](https://github.com/panjf2000/gnet)
+  - a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go
+  - 通信系ライブラリの中では一番スターが多い感じ
+- [networkGo](https://github.com/dreddsa5dies/networkGo)
+  - Examples of how to use Go to work with the network
+  - 通信処理のサンプルが置いてある
+- [arpc](https://github.com/lesismal/arpc)
+  - More effective network communication, two-way calling, notify and broadcast supported
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+  - 各種アルゴリズムについてのサンプルが多数ある
+- [tablewriter](https://github.com/olekukonko/tablewriter)
+  - ASCII table in golang
+  - 使いやすい
+- [go-texttable](https://github.com/syohex/go-texttable)
+  - go-texttable provides creating text table
+  - 使いやすい
+- [fsnotify](https://github.com/fsnotify/fsnotify)
+  - Cross-platform file system notifications for Go
+  - クロスプラットフォームで使える FileWatcher ライブラリ
+
 
 ## goland
 
@@ -246,6 +315,7 @@
 - [Debugging with GoLand – Advanced Debugging features](https://blog.jetbrains.com/go/2019/03/04/debugging-with-goland-advanced-debugging-features/)
 - [How to Find Goroutines During Debugging](https://blog.jetbrains.com/go/2020/03/03/how-to-find-goroutines-during-debugging/)
 - [Debugging containerized Go applications](https://blog.jetbrains.com/go/2018/04/30/debugging-containerized-go-applications/)
+- [Debugging Your Go Applications](https://semaphoreci.com/blog/debugging-go)
 
 ### TDD
 - [Test Driven Development with GoLand](https://blog.jetbrains.com/go/2020/03/13/test-driven-development-with-goland/)
@@ -922,6 +992,7 @@
 - [How to test TCP/UDP connections in Go - Part 2](https://dev.to/williamhgough/how-to-test-tcpudp-connections-in-go---part-2-2960)
 - [Golangのネットワーク関連ライブラリを雑多にまとめる](https://qiita.com/kudojp/items/706c7104111eca2e32c3)
   - HMACについても少し記載あり
+- [Raw sockets in Go: IP layer](https://darkcoding.net/uncategorized/raw-sockets-in-go-ip-layer/)
 
 ### testing
 
@@ -1160,6 +1231,21 @@
 - [Golangの良いところ](https://christina04.hatenablog.com/entry/why-golang-is-good)
 - [Non-Blocking I/O, I/O Multiplexing, Asynchronous I/Oの区別](https://christina04.hatenablog.com/entry/2017/07/05/005944)
 - [イベントループなしでのハイパフォーマンス – C10K問題へのGoの回答](https://postd.cc/performance-without-the-event-loop/)
+
+## database
+
+- [Tutorial: Accessing a relational database](https://go.dev/doc/tutorial/database-access)
+- [Accessing relational databases](https://go.dev/doc/database/index)
+- [Opening a database handle](https://go.dev/doc/database/open-handle)
+- [Executing SQL statements that don't return data](https://go.dev/doc/database/change-data)
+- [Querying for data](https://go.dev/doc/database/querying)
+- [Using prepared statements](https://go.dev/doc/database/prepared-statements)
+- [Executing transactions](https://go.dev/doc/database/execute-transactions)
+- [Canceling in-progress database operations](https://go.dev/doc/database/cancel-operations)
+- [Managing connections](https://go.dev/doc/database/manage-connections)
+- [Avoiding SQL injection risk](https://go.dev/doc/database/sql-injection)
+- [Golang with database operations](https://dev.to/burrock/golang-with-database-operations-3jl0)
+- [Go言語でSQLite3を使う](https://zenn.dev/teasy/articles/go-sqlite3-sample)
 
 ## excel
 

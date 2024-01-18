@@ -1,1 +1,6 @@
+
 image: gitpod/workspace-base:latest
+
+vscode:
+  extensions:
+    - huntertran.auto-markdown-toc
