@@ -369,6 +369,7 @@
   - [ Go Details & Tips 101](https://go101.org/details-and-tips/101.html)
 - [家計簿アプリを作ろう](https://github.com/gohandson/accountbook-ja)
 - [GOSAMPLES](https://gosamples.dev/)
+- [「Go言語で楽しくなるシステム開発：基礎から実践テクニック」mattn × 渋川よしき](https://pr.forkwell.com/tech_event_reports/go-lang-2/)
 
 ## golang-memo
 
@@ -733,6 +734,23 @@
 - [Goメモ-349 (math/bigを使って丸め誤差が出ないように計算する)](https://devlights.hatenablog.com/entry/2023/11/08/073000)
 - [Goメモ-350 (github.com/shopspring/decimalを使って計算)](https://devlights.hatenablog.com/entry/2023/11/09/073000)
 - [Goメモ-351 (sync.OnceFunc)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/14/073000)
+- [Goメモ-352 (sync.OnceValue)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/16/073000)
+- [Goメモ-353 (sync.OnceValues)(go 1.21から追加)](https://devlights.hatenablog.com/entry/2023/11/17/073000)
+- [Goメモ-354 (Fourteen Years of Go)(Goは14歳になった)](https://devlights.hatenablog.com/entry/2023/11/20/073000)
+- [Goメモ-355 (メソッド値とメソッド式)(method value, method expression)](https://devlights.hatenablog.com/entry/2023/11/27/073000)
+- [Goメモ-356 (Go側からsoファイルを作成してPythonとCで利用)(c-shared)](https://devlights.hatenablog.com/entry/2023/11/30/073000)
+- [Goメモ-357 (Goのプロジェクト構成)(Organizing a Go module, golang-standards)](https://devlights.hatenablog.com/entry/2023/12/01/073000)
+- [Goメモ-358 (fmt.Stringerとfmt.GoStringer)(%v, %+v, %#v, %s)](https://devlights.hatenablog.com/entry/2023/12/04/073000)
+- [Goメモ-359 (翌月の日付を求める)](https://devlights.hatenablog.com/entry/2023/12/05/073000)
+- [Goメモ-360 (月の日数を求める)](https://devlights.hatenablog.com/entry/2023/12/06/073000)
+- [Goメモ-361 (オブジェクトをプーリングして再利用)(sync.Pool)](https://devlights.hatenablog.com/entry/2023/12/07/073000)
+- [Goメモ-362 (文字列とバイト列のクローン)(strings.Clone, bytes.Clone)](https://devlights.hatenablog.com/entry/2023/12/12/073000)
+- [Goメモ-363 (VCSのリビジョン情報をランタイム時に取得)(runtime/debug.BuildInfo, vcs.revision)](https://devlights.hatenablog.com/entry/2023/12/20/073000)
+- [Goメモ-364 (*sql.Rowsから[]map[string]anyに変換)](https://devlights.hatenablog.com/entry/2023/12/28/073000)
+- [Goメモ-365 (gops)(google/gops, Goのプロセスを一覧表示)](https://devlights.hatenablog.com/entry/2024/01/09/073000)
+- [Goメモ-366 (ドットインポート)(dot import)](https://devlights.hatenablog.com/entry/2024/01/10/073000)
+- [Goメモ-367 (Go 1.22: Interactive release notes, リリースノート)](https://devlights.hatenablog.com/entry/2024/01/16/073000)
+- [Goメモ-368 (Go 1.22, Range over integers, for-rangeループの指定に数値が使えるようになる)](https://devlights.hatenablog.com/entry/2024/01/18/073000)
 
 ## golang
 
