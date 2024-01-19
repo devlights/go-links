@@ -245,17 +245,29 @@
   - About A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
   - ノンブロッキング I/O ネットワークフレームワーク
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3)
+  - sqlite3 driver for go using database/sql
 - [glebarez/go-sqlite](https://github.com/glebarez/go-sqlite)
+  - pure-Go SQLite driver for Go (SQLite embedded)
 - [modernc.org/sqlite](https://gitlab.com/cznic/sqlite)
+  - a CGo-free port of SQLite/SQLite3.
 - [uptrace/bun](https://github.com/uptrace/bun)
+  - SQL-first Golang ORM
 - [sqlx](https://github.com/jmoiron/sqlx)
+  - general purpose extensions to golang's database/sql
 - [sqlc](https://github.com/sqlc-dev/sqlc)
+  - Generate type-safe code from SQL
 - [textql](https://github.com/dinedal/textql)
+  - Execute SQL against structured text like CSV or TSV
 - [xlsxsql](https://github.com/noborus/xlsxsql)
+  - A CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
 - [trdsql](https://github.com/noborus/trdsql)
+  - CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 - [gorm](https://github.com/go-gorm/gorm)
+  - The fantastic ORM library for Golang, aims to be developer friendly
 - [ent](https://github.com/ent/ent)
+  - An entity framework for Go
 - [go-ordered-map](https://github.com/wk8/go-ordered-map)
+  - Optimal implementation of ordered maps for Golang
 - [shmipc-go](https://github.com/cloudwego/shmipc-go)
   - high performance inter-process communication library developed by ByteDance
 - [gev](https://github.com/Allenxuxu/gev)
