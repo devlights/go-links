@@ -1246,6 +1246,7 @@
 - [Avoiding SQL injection risk](https://go.dev/doc/database/sql-injection)
 - [Golang with database operations](https://dev.to/burrock/golang-with-database-operations-3jl0)
 - [Go言語でSQLite3を使う](https://zenn.dev/teasy/articles/go-sqlite3-sample)
+- [Go ORMs Compared](https://dev.to/encore/go-orms-compared-2c8g)
 
 ## excel
 
