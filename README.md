@@ -833,6 +833,11 @@
 - [Goメモ-366 (ドットインポート)(dot import)](https://devlights.hatenablog.com/entry/2024/01/10/073000)
 - [Goメモ-367 (Go 1.22: Interactive release notes, リリースノート)](https://devlights.hatenablog.com/entry/2024/01/16/073000)
 - [Goメモ-368 (Go 1.22, Range over integers, for-rangeループの指定に数値が使えるようになる)](https://devlights.hatenablog.com/entry/2024/01/18/073000)
+- [Goメモ-369 (まだリリースされていない最新版の標準ライブラリのドキュメントを見る)(gotip, master)](https://devlights.hatenablog.com/entry/2024/01/19/073000)
+- [Goメモ-370 (Go 1.22 にて reflect.TypeFor が追加)](https://devlights.hatenablog.com/entry/2024/01/22/073000)
+- [Goメモ-371 (Go 1.22 にて slices.Concat が追加)](https://devlights.hatenablog.com/entry/2024/01/23/073000)
+- [Goメモ-372 (INIファイルを操作)(go-ini)](https://devlights.hatenablog.com/entry/2024/01/24/073000)
+- [Goメモ-373 (Go 1.20 から %w を複数指定できるようになってた)(Wrapping multiple errors)](https://devlights.hatenablog.com/entry/2024/01/30/073000)
 
 ## golang
 
