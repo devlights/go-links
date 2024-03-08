@@ -838,6 +838,14 @@
 - [Goメモ-371 (Go 1.22 にて slices.Concat が追加)](https://devlights.hatenablog.com/entry/2024/01/23/073000)
 - [Goメモ-372 (INIファイルを操作)(go-ini)](https://devlights.hatenablog.com/entry/2024/01/24/073000)
 - [Goメモ-373 (Go 1.20 から %w を複数指定できるようになってた)(Wrapping multiple errors)](https://devlights.hatenablog.com/entry/2024/01/30/073000)
+- [Goメモ-374 (goimports を全goファイルに実施したい)](https://devlights.hatenablog.com/entry/2024/01/31/073000)
+- [Goメモ-375 (golang.org/x/tools/cmd/deadcodeを使ってデッドコードを調べる)](https://devlights.hatenablog.com/entry/2024/02/02/073000)
+- [Goメモ-376 (JSONのデコード時に不明なフィールドがある場合エラーとする)(DisallowUnknownFields)](https://devlights.hatenablog.com/entry/2024/02/05/073000)
+- [Goメモ-377 (Go 1.22 リリース)](https://devlights.hatenablog.com/entry/2024/02/14/073000)
+- [Goメモ-378 (garble, 難読化ツール)](https://devlights.hatenablog.com/entry/2024/02/21/073000)
+- [Goメモ-379 (otter, ハイパフォーマンスなキャッシュライブラリ)](https://devlights.hatenablog.com/entry/2024/03/04/073000)
+- [Goメモ-380 (構造体をそのままバイナリで出力したい)(binary.Write/Read)](https://devlights.hatenablog.com/entry/2024/03/05/073000)
+- [Goメモ-381 (パスワード付きZIPファイルを作成・解凍)](https://devlights.hatenablog.com/entry/2024/03/06/073000)
 
 ## golang
 
