@@ -31,6 +31,7 @@
     - [golang](#golang)
         - [lang-spec](#lang-spec)
         - [mod go modules](#mod-go-modules)
+        - [cgo](#cgo)
         - [concurrent](#concurrent)
         - [error-handling](#error-handling)
         - [logging](#logging)
@@ -846,6 +847,10 @@
 - [Goメモ-379 (otter, ハイパフォーマンスなキャッシュライブラリ)](https://devlights.hatenablog.com/entry/2024/03/04/073000)
 - [Goメモ-380 (構造体をそのままバイナリで出力したい)(binary.Write/Read)](https://devlights.hatenablog.com/entry/2024/03/05/073000)
 - [Goメモ-381 (パスワード付きZIPファイルを作成・解凍)](https://devlights.hatenablog.com/entry/2024/03/06/073000)
+- [Goメモ-382 (C言語のようにバイト配列を構造体にキャスト)](https://devlights.hatenablog.com/entry/2024/03/07/073000)
+- [Goメモ-383 (前後の空白文字をトリミング)(strings.TrimSpace)](https://devlights.hatenablog.com/entry/2024/03/13/073000)
+- [Goメモ-384 (Future/Promiseパターン)](https://devlights.hatenablog.com/entry/2024/03/14/073000)
+- [Goメモ-385 (Gio UI)(Cross-Platform GUI for Go)](https://devlights.hatenablog.com/entry/2024/03/18/073000)
 
 ## golang
 
@@ -933,6 +938,13 @@
 - [Modules Part 03: Minimal Version Selection](https://www.ardanlabs.com/blog/2019/12/modules-03-minimal-version-selection.html)
 - [GOPATHを掃除してGo Modulesに移行しよう](https://techblog.kayac.com/migration-gopath-to-go-modules)
 
+### cgo
+
+- [try-golang-cgo](https://github.com/devlights/try-golang-cgo)
+- [C? Go? Cgo!](https://go.dev/blog/cgo)
+- [Go Wiki: cgo](https://go.dev/wiki/cgo)
+- [cmd/cgo](https://pkg.go.dev/cmd/cgo)
+- [runtime/cgo](https://pkg.go.dev/runtime/cgo)
 
 ### concurrent
 
