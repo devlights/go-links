@@ -300,7 +300,9 @@
 - [fsnotify](https://github.com/fsnotify/fsnotify)
   - Cross-platform file system notifications for Go
   - クロスプラットフォームで使える FileWatcher ライブラリ
-
+- [flaggy](https://github.com/integrii/flaggy)
+  - フラグ管理ライブラリ。依存ライブラリが無くインストールしやすい
+  - サブコマンドやサブコマンドのサブコマンドも作成可能
 
 ## goland
 
@@ -875,6 +877,14 @@
 - [Goメモ-406 (最初のゼロ値ではない値を返す)(cmp.Or, go 1.22で追加)](https://devlights.hatenablog.com/entry/2024/05/07/073000)
 - [Goメモ-407 (cmp.Or, cmp.Compareを用いて複合キーのソート処理を実装)](https://devlights.hatenablog.com/entry/2024/05/08/073000)
 - [Goメモ-408 (書式表示で指定ビット桁を表示)(fmt, %0Nb)](https://devlights.hatenablog.com/entry/2024/05/09/073000)
+- [Goメモ-409 (teeコマンドのように読み出しながら別のストリームに書き込む)(io.TeeReader)](https://devlights.hatenablog.com/entry/2024/05/10/073000)
+- [Goメモ-410 (指定したサイズ分だけ読み出す)(io.LimitReader)](https://devlights.hatenablog.com/entry/2024/05/13/073000)
+- [Goメモ-411 (指定した範囲のデータだけ読み出す)(io.SectionReader)](https://devlights.hatenablog.com/entry/2024/05/14/073000)
+- [Goメモ-412 (指定したオフセットから書き込む)(io.OffsetWriter)](https://devlights.hatenablog.com/entry/2024/05/15/073000)
+- [Goメモ-413 (既存関数を置き換え)(go:linkname, コンパイラディレクティブ)](https://devlights.hatenablog.com/entry/2024/05/16/073000)
+- [Goメモ-414 (重複した呼び出しを抑制したい)(x/sync/singleflightパッケージ)](https://devlights.hatenablog.com/entry/2024/05/21/073000)
+- [Goメモ-415 (ヒープメモリの統計情報を取得, runtime/metrics)](https://devlights.hatenablog.com/entry/2024/05/24/073000)
+- [Goメモ-416 (CPUの統計情報を取得, runtime/metrics)](https://devlights.hatenablog.com/entry/2024/05/27/073000)
 
 ## golang
 
