@@ -916,6 +916,12 @@
 - [Goメモ-445 (PDFをページごとに分割)(pdfcpu)](https://devlights.hatenablog.com/entry/2024/07/31/073000)
 - [Goメモ-446 (PDF内から特定のテキストを検索)(ledongthuc/pdf)](https://devlights.hatenablog.com/entry/2024/08/01/073000)
 - [Goメモ-447 (mkfifoメモ)(1)(create)](https://devlights.hatenablog.com/entry/2024/08/02/073000)
+- [Goメモ-448 (mkfifoメモ)(2)(read)](https://devlights.hatenablog.com/entry/2024/08/05/073000)
+- [Goメモ-449 (mkfifoメモ)(3)(write)](https://devlights.hatenablog.com/entry/2024/08/06/073000)
+- [Goメモ-450 (mkfifoメモ)(4)(read-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/07/073000)
+- [Goメモ-451 (mkfifoメモ)(5)(write-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/08/073000)
+- [Goメモ-452 (バージョンごとの新機能)](https://devlights.hatenablog.com/entry/2024/08/14/073000)
+- [Goメモ-453 (Go 1.23 リリース)(参考情報リンク)](https://devlights.hatenablog.com/entry/2024/08/15/073000)
 
 ## golang
 
