@@ -23,8 +23,7 @@
         - [Refactoring](#refactoring)
         - [Debug](#debug)
         - [TDD](#tdd)
-        - [New Release](#new-release)
-        - [What's New](#whats-new)
+        - [Misc](#misc)
     - [tui](#tui)
     - [many_golang_articles](#many_golang_articles)
     - [golang-memo](#golang-memo)
@@ -67,6 +66,7 @@
   - [GO 1.20 リリースノート](https://tip.golang.org/doc/go1.20)
   - [GO 1.21 リリースノート](https://tip.golang.org/doc/go1.21)
   - [GO 1.22 リリースノート](https://tip.golang.org/doc/go1.22)
+  - [GO 1.23 リリースノート](https://go.dev/doc/go1.23)
 - [Go Documentation](https://golang.org/doc/)
 - [Go Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Blog](https://blog.golang.org/)
@@ -336,16 +336,22 @@
 ### TDD
 - [Test Driven Development with GoLand](https://blog.jetbrains.com/go/2020/03/13/test-driven-development-with-goland/)
 
-### New Release
+### Misc
 - [Hello, GoLand 2019.1!](https://blog.jetbrains.com/go/2019/03/27/hello-goland-2019-1/)
 - [Say Hello to GoLand 2019.2!](https://blog.jetbrains.com/go/2019/07/25/goland-2019-2/)
 - [GoLand 2020.1 Reaches Beta!](https://blog.jetbrains.com/go/2020/03/26/goland-2020-1-reaches-beta/)
-
-### What's New
-- [2019.1](https://www.jetbrains.com/go/whatsnew/#v2019-1)
-- [2019.2](https://www.jetbrains.com/go/whatsnew/#v2019-2)
-- [2019.3](https://www.jetbrains.com/go/whatsnew/#v2019-3)
-
+- [GoLand’s Hidden Gems](https://blog.jetbrains.com/go/2022/07/21/hidden-gems-in-goland/)
+- [Build a Blog With Go Templates](https://blog.jetbrains.com/go/2022/11/08/build-a-blog-with-go-templates/)
+- [Comprehensive Guide to Testing in Go](https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/)
+- [Understanding Fuzz Testing in Go](https://blog.jetbrains.com/go/2022/12/14/understanding-fuzz-testing-in-go/)
+- [Profiling Go Code with GoLand](https://blog.jetbrains.com/go/2023/02/02/profiling-go-code-with-goland/)
+- [Getting Started with The database/sql Package](https://blog.jetbrains.com/go/2023/02/28/getting-started-with-the-database-sql-package/)
+- [Catching Up With Kat Zien on the Structure of Go Apps in 2023](https://blog.jetbrains.com/go/2023/04/11/catching-up-with-kat-zien-on-the-structure-of-go-apps-in-2023/)
+- [Comparing database/sql, GORM, sqlx, and sqlc](https://blog.jetbrains.com/go/2023/04/27/comparing-db-packages/)
+- [OS in Go? Why Not?](https://blog.jetbrains.com/go/2023/05/16/os-in-go-why-not/)
+- [Learn Go This Week: A Language Built for Simplicity and Efficiency](https://blog.jetbrains.com/education/2023/12/18/learn-go-community-course/)
+- [Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)
+- [GoLand 2024.2 Is Out!](https://blog.jetbrains.com/go/2024/08/05/goland-2024-2-is-out/)
 
 ## tui
 
