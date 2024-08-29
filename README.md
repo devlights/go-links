@@ -928,6 +928,13 @@
 - [Goメモ-451 (mkfifoメモ)(5)(write-nonblocking)](https://devlights.hatenablog.com/entry/2024/08/08/073000)
 - [Goメモ-452 (バージョンごとの新機能)](https://devlights.hatenablog.com/entry/2024/08/14/073000)
 - [Goメモ-453 (Go 1.23 リリース)(参考情報リンク)](https://devlights.hatenablog.com/entry/2024/08/15/073000)
+- [Goメモ-454 (flagパッケージ再入門)(01-FlagSet)](https://devlights.hatenablog.com/entry/2024/08/20/073000)
+- [Goメモ-455 (flagパッケージ再入門)(02-Var)](https://devlights.hatenablog.com/entry/2024/08/21/073000)
+- [Goメモ-456 (flagパッケージ再入門)(03-Duration)](https://devlights.hatenablog.com/entry/2024/08/22/073000)
+- [Goメモ-457 (flagパッケージ再入門)(04-Func)](https://devlights.hatenablog.com/entry/2024/08/23/073000)
+- [Goメモ-458 (flagパッケージ再入門)(05-TextVar)](https://devlights.hatenablog.com/entry/2024/08/26/073000)
+- [Goメモ-459 (flagパッケージ再入門)(06-NArgs)](https://devlights.hatenablog.com/entry/2024/08/27/073000)
+- [Goメモ-460 (flagパッケージ再入門)(07-Subcommand)](https://devlights.hatenablog.com/entry/2024/08/28/073000)
 
 ## golang
 
