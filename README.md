@@ -303,6 +303,8 @@
 - [flaggy](https://github.com/integrii/flaggy)
   - フラグ管理ライブラリ。依存ライブラリが無くインストールしやすい
   - サブコマンドやサブコマンドのサブコマンドも作成可能
+- [lux](https://github.com/iawia002/lux)
+  - fast and simple video downloader built with Go.
 
 ## goland
 
